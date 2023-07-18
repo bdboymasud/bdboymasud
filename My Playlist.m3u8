@@ -22,60 +22,66 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-08, Boishakhi TV
 https://live.sonarbanglatv.com/boishakhi/boishakhitv.m3u8
 
-#EXTINF:-09, Bongo Movies
+#EXTINF:-09, Bongo Drama
+https://live.bongobd.com/hls/VjVy8h2UxbXwry2Iofto-g/1689683624/bongo_drama_hi/index.m3u8
+
+#EXTINF:-10, Bongo Movies
 https://live.bongobd.com/hls/4RkRQILZnI_8M2JsOXkZtw/1689670342/bongo_movies_hi/index.m3u8
 
-#EXTINF:-10,DBC News
+#EXTINF:-11, Colors Bangla
+https://edge4.bioscopelive.com/hls/anonymous/kMnvFLTiNdeKCF_WTzlVRg/1689683830/colors_bangla_hi/index.m3u8
+
+#EXTINF:-12,DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
-#EXTINF:-11, Ekushe TV
+#EXTINF:-13, Ekushe TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-12, GaanBangla TV
-https://live.bongobd.com/hls/E90dhsH_TzFfUIfQZa0DPg/1689670212/gaan_bangla_hi/index.m3u8
+#EXTINF:-14, GaanBangla TV
+https://live.bongobd.com/hls/Qzcrbnop8uHd4xpx6z_ACw/1689683770/gaan_bangla_hi/index.m3u8
 
-#EXTINF:-13,Jamuna TV
+#EXTINF:-15,Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-14, Jonmobhumi TV
+#EXTINF:-16, Jonmobhumi TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-15, Global TV HD
+#EXTINF:-17, Global TV HD
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-16,Independents
+#EXTINF:-18,Independents
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-17, ION TV
+#EXTINF:-19, ION TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-18, Millennium TV
+#EXTINF:-20, Millennium TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-19, Millennium TV News
+#EXTINF:-21, Millennium TV News
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-20, Movie Bangla
+#EXTINF:-22, Movie Bangla
 https://edge4.bioscopelive.com/hls/anonymous/bVDM4VMKXesBzjopLn5eFg/1689672656/movie_bangla_hi/index.m3u8
 
-#EXTINF:-21,My TV HD
+#EXTINF:-23,My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
-#EXTINF:-22,News24 HD
+#EXTINF:-24,News24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
-#EXTINF:-23,RTV HD
+#EXTINF:-25,RTV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-24, RTA Sport
+#EXTINF:-26, RTA Sport
 https://hls.rtasport.live/hls/stream.m3u8
 
-#EXTINF:-25,SATV HD
+#EXTINF:-27,SATV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-26, Somoy TV
+#EXTINF:-28, Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-27,Time TV
+#EXTINF:-29,Time TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/tracks-v1a1/mono.m3u8
 
