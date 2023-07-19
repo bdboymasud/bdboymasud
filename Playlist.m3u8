@@ -35,7 +35,7 @@ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 https://channel24.jaagobd.com/channel24/channel24-sg-e8e.stream/chunks.m3u8?nimblesessionid=1835134881
 
 #EXTINF:-13,Colors Bangla Cinema
-https://edge4.bioscopelive.com/hls/anonymous/mbhwWo6Ms-gVWSrolA1kpA/1689749723/live-colors-bangla-cinema_hi/index.m3u8
+https://cdn.privatemedia.tv/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=8c22025b1de71e3c9939967c197cf4183dc999a8-8b6b32c8f54a755f897977cd7e61c101-1689803408-1689792608
 
 #EXTINF:-14,DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -113,7 +113,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-39,Sony Aath
-https://edge4.bioscopelive.com/hls/anonymous/n7ZrXZKFTHNySMV5Fu0hxA/1689746268/live-sony-aath-sd_hi/index.m3u8
+https://cdn.privatemedia.tv/SonyAath/tracks-v1a1/mono.m3u8?token=d53b445f8cb6bc9a16555d571a1f11ac60134f2c-53a61ad52d834bf355ba9bcbdc7570bf-1689803571-1689792771
 
 #EXTINF:-40,The Channel TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
@@ -123,3 +123,15 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 #EXTINF:-42,Ekattor TV HD
 https://cdn.privatemedia.tv/EkattorTV/tracks-v1a1/mono.m3u8?token=378f6d2ede64bda57b702dcc818507fcbf41fa3c-9297178c9f78bfadf8af66976c82ac37-1689803222-1689792422
+
+#EXTINF:-43,Zee Bangla
+https://cdn.privatemedia.tv/ZeeBangla/tracks-v1a1/mono.m3u8?token=530a656456307adc73b3f5da9790238c189a1172-facba823b8748c9cec906c7d6721f8f6-1689803686-1689792886
+
+#EXTINF:-44,PTV Sports
+https://cdn.privatemedia.tv/PTVSports/tracks-v1a1/mono.m3u8?token=4ebadfc089987cec2e4ca2ca8bcf37005119fb6e-df3d79dd7e63d7f4eac5035475e7a3a2-1689803959-1689793159
+
+#EXTINF:-45, Channel I HD
+https://cdn.privatemedia.tv/j-ChannelI/tracks-v1a1/mono.m3u8?token=42a16e3c969c3200cb0202445863d04285e7c38f-3e4ae23406a2864b7512b8d223fba28b-1689804186-1689793386
+
+#EXTINF:-46, Deepto TV HD
+https://cdn.privatemedia.tv/j-deepto/tracks-v1a1/mono.m3u8?token=10c4634de4ca71b8f71becd14543853540f62a70-ca1ef6fe68c8820d2b24a94b709f099a-1689804295-1689793495
