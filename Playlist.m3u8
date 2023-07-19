@@ -135,3 +135,6 @@ https://cdn.privatemedia.tv/j-ChannelI/tracks-v1a1/mono.m3u8?token=42a16e3c969c3
 
 #EXTINF:-46, Deepto TV HD
 https://cdn.privatemedia.tv/j-deepto/tracks-v1a1/mono.m3u8?token=10c4634de4ca71b8f71becd14543853540f62a70-ca1ef6fe68c8820d2b24a94b709f099a-1689804295-1689793495
+
+#EXTINF:-47, NTV
+https://cdn.privatemedia.tv/NTV/tracks-v1a1/mono.m3u8?token=d01122804ba75db5bd7e1ba77dc7d1ddf4cbc7a6-7b85e5f664e896e1e9f095a7c769dac4-1689804629-1689793829
