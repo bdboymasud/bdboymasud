@@ -138,3 +138,6 @@ https://cdn.privatemedia.tv/j-deepto/tracks-v1a1/mono.m3u8?token=10c4634de4ca71b
 
 #EXTINF:-47, NTV
 https://cdn.privatemedia.tv/NTV/tracks-v1a1/mono.m3u8?token=d01122804ba75db5bd7e1ba77dc7d1ddf4cbc7a6-7b85e5f664e896e1e9f095a7c769dac4-1689804629-1689793829
+
+#EXTINF:-48, Movie Bangla
+https://cdn.privatemedia.tv/j-MovieBangla/tracks-v1a1/mono.m3u8?token=a61c3c23a6da3a18935d7cc403fb2bce9e539358-8a628f0af8721e13b54d7884d42d64af-1689805911-1689795111
