@@ -22,11 +22,11 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-08, Boishakhi TV
 https://live.sonarbanglatv.com/boishakhi/boishakhitv.m3u8
 
-#EXTINF:-09, Bongo Movies
-https://live.bongobd.com/hls/4RkRQILZnI_8M2JsOXkZtw/1689670342/bongo_movies_hi/index.m3u8
+#EXTINF:-09, Channel S UK
+ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 
-#EXTINF:-10, Colors Bangla
-https://edge4.bioscopelive.com/hls/anonymous/kMnvFLTiNdeKCF_WTzlVRg/1689683830/colors_bangla_hi/index.m3u8
+#EXTINF:-10, CAN Bangla
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/live-orgin/canbanglatv.stream/chunks.m3u8
 
 #EXTINF:-11,DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -46,48 +46,54 @@ https://edge4.bioscopelive.com/hls/anonymous/qlKFVOMKKeSV07jIb57JTA/1689746516/l
 #EXTINF:-16, Green TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
-#EXTINF:-17,Jamuna TV
+#EXTINF:-17, JAGONEWS 24 TV
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-18,Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-18, Jonmobhumi TV
+#EXTINF:-19, Jonmobhumi TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-19,Independents
+#EXTINF:-20,Independents
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-20, ION TV
+#EXTINF:-21, ION TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-21, Millennium TV
+#EXTINF:-22, Millennium TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-22, Millennium TV News
+#EXTINF:-23, Millennium TV News
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-23, Movie Bangla
+#EXTINF:-24, Movie Bangla
 https://edge4.bioscopelive.com/hls/anonymous/bVDM4VMKXesBzjopLn5eFg/1689672656/movie_bangla_hi/index.m3u8
 
-#EXTINF:-24,My TV HD
+#EXTINF:-25,My TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
-#EXTINF:-25,News24 HD
+#EXTINF:-26,NAN TV HD
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
+
+#EXTINF:-27,News24 HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
-#EXTINF:-26,RTV HD
+#EXTINF:-28,RTV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 
-#EXTINF:-27, RTA Sport
+#EXTINF:-29, RTA Sport
 https://hls.rtasport.live/hls/stream.m3u8
 
-#EXTINF:-28,SATV HD
+#EXTINF:-30,SATV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-29, Somoy TV
+#EXTINF:-31, Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-30, Sony Aath
+#EXTINF:-32, Sony Aath
 https://edge4.bioscopelive.com/hls/anonymous/n7ZrXZKFTHNySMV5Fu0hxA/1689746268/live-sony-aath-sd_hi/index.m3u8
 
-#EXTINF:-31,Time TV
+#EXTINF:-33,Time TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/tracks-v1a1/mono.m3u8
 
