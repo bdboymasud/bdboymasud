@@ -141,3 +141,6 @@ https://cdn.privatemedia.tv/NTV/tracks-v1a1/mono.m3u8?token=d01122804ba75db5bd7e
 
 #EXTINF:-48, Movie Bangla
 https://cdn.privatemedia.tv/j-MovieBangla/tracks-v1a1/mono.m3u8?token=a61c3c23a6da3a18935d7cc403fb2bce9e539358-8a628f0af8721e13b54d7884d42d64af-1689805911-1689795111
+
+#EXTINF:-49, Colors Bangla
+https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
