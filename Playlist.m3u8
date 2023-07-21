@@ -113,7 +113,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-39,Sony Aath
-https://cdn.privatemedia.tv/SonyAath/tracks-v1a1/mono.m3u8?token=d53b445f8cb6bc9a16555d571a1f11ac60134f2c-53a61ad52d834bf355ba9bcbdc7570bf-1689803571-1689792771
+http://103.141.2.37:25461/web/web/59103571-1689792771
 
 #EXTINF:-40,The Channel TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/thechanneltv.stream/live-orgin/thechanneltv.stream/chunks.m3u8
@@ -144,3 +144,13 @@ https://cdn.privatemedia.tv/j-MovieBangla/tracks-v1a1/mono.m3u8?token=a61c3c23a6
 
 #EXTINF:-49, Colors Bangla
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-50, T Sports HD
+http://g4b.alwaysdata.net/tsports1080p.m3u8
+
+#EXTINF:-51, T Sports HD
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
+
+#EXTINF:-52,Gazi TV HD
+http://103.141.2.37:25461/web/web/592
+
