@@ -127,7 +127,7 @@ https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11901
 #EXTINF:-43,Zee Bangla
 http://103.141.2.37:25461/web/web/602
 
-#EXTINF:-44,PTV Sports
+#EXTINF:-44,PTV Sports HD
 http://180.178.146.218:8000/play/a007
 
 #EXTINF:-45, Channel I HD
@@ -190,5 +190,17 @@ https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11904
 #EXTINF:-64,Nick Bangla
 http://103.141.2.37:25461/web/web/615
 
-#EXTINF:-66,Mohona TV
+#EXTINF:-65,Mohona TV
 https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11886
+
+#EXTINF:-66,Voice TV
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/live-orgin/voicetv.stream/chunks.m3u8
+
+#EXTINF:-67,B24C TV
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/live-orgin/b24c.stream/chunks.m3u8
+
+#EXTINF:-68,ATN Music
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-69,Varendra TV
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/live-orgin/b24c.stream/chunks.m3u8
