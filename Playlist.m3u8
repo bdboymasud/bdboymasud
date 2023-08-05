@@ -128,7 +128,7 @@ https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11901
 http://103.141.2.37:25461/web/web/602
 
 #EXTINF:-44,PTV Sports
-https://cdn.privatemedia.tv/PTVSports/tracks-v1a1/mono.m3u8?token=4ebadfc089987cec2e4ca2ca8bcf37005119fb6e-df3d79dd7e63d7f4eac5035475e7a3a2-1689803959-1689793159
+http://180.178.146.218:8000/play/a007
 
 #EXTINF:-45, Channel I HD
 https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11910
@@ -172,7 +172,7 @@ https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11871
 #EXTINF:-58,Zee Bangla 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 
-#EXTINF:-59,Colors Bangla hd
+#EXTINF:-59,Colors Bangla HD
 https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11949
 
 #EXTINF:-60,Discovery Bangla HD
