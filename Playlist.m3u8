@@ -154,7 +154,7 @@ https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6d
 #EXTINF:-52, T Sports HD
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 
-#EXTINF:-53, T Sports HD
+#EXTINF:-53, T Sports HD 2
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 #EXTINF:-54,Gazi TV HD
@@ -184,8 +184,8 @@ http://103.141.2.37:25461/web/web/604
 #EXTINF:-62,Sun Bangla
 http://103.141.2.37:25461/web/web/589
 
-#EXTINF:-63,Dhoom Music
-https://yupplivefragcp5.yuppcdn.net/030523/smil:dhoom.smil/chunklist_b1928000.m3u8
+#EXTINF:-63,Desh TV
+https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11904
 
 #EXTINF:-64,Nick Bangla
 http://103.141.2.37:25461/web/web/615
