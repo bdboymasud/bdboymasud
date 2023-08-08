@@ -1,0 +1,791 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="colorsgujarati.uk" tvg-name="Colors Gujarati SD" tvg-logo="" group-title="UK | ASIAN",Colors Gujarati SD
+http://gtvstreams.me:80/Robbie/Robbie/265727
+#EXTINF:-1 tvg-id="gold.uk" tvg-name="UK: Utsav Gold HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Utsav_Gold_Logo.jpg/220px-Utsav_Gold_Logo.jpg" group-title="UK | ASIAN",UK: Utsav Gold HD
+http://gtvstreams.me:80/Robbie/Robbie/265726
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="UK: Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/132px-Sony_MAX.svg.png" group-title="UK | ASIAN",UK: Sony Max HD
+http://gtvstreams.me:80/Robbie/Robbie/265717
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="UK: Sony TV HD" tvg-logo="https://media.info/i/lf/300/1568239881/1537.png" group-title="UK | ASIAN",UK: Sony TV HD
+http://gtvstreams.me:80/Robbie/Robbie/265716
+#EXTINF:-1 tvg-id="colors.uk" tvg-name="UK: Colors HD" tvg-logo="" group-title="UK | ASIAN",UK: Colors HD
+http://gtvstreams.me:80/Robbie/Robbie/265703
+#EXTINF:-1 tvg-id="utsavbharat.uk" tvg-name="UK: Utsav Bharat" tvg-logo="" group-title="UK | ASIAN",UK: Utsav Bharat
+http://gtvstreams.me:80/Robbie/Robbie/265702
+#EXTINF:-1 tvg-id="starutsav.in" tvg-name="UK: Utsav Plus" tvg-logo="" group-title="UK | ASIAN",UK: Utsav Plus
+http://gtvstreams.me:80/Robbie/Robbie/265701
+#EXTINF:-1 tvg-id="sonysab.uk" tvg-name="UK: Sony SAB" tvg-logo="" group-title="UK | ASIAN",UK: Sony SAB
+http://gtvstreams.me:80/Robbie/Robbie/265700
+#EXTINF:-1 tvg-id="colorsrishtey.uk" tvg-name="UK: Colors Rishtey" tvg-logo="" group-title="UK | ASIAN",UK: Colors Rishtey
+http://gtvstreams.me:80/Robbie/Robbie/265699
+#EXTINF:-1 tvg-id="britishmuslim.uk" tvg-name="UK: British Muslim" tvg-logo="" group-title="UK | ASIAN",UK: British Muslim
+http://gtvstreams.me:80/Robbie/Robbie/265698
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="MTV SD" tvg-logo="data:image/png;base64,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" group-title="UK | ENTERTAINMENT",MTV SD
+http://gtvstreams.me:80/Robbie/Robbie/8548
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UTV (FHD)" tvg-logo="data:image/jpeg;base64,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" group-title="UK | ENTERTAINMENT",UTV (FHD)
+http://gtvstreams.me:80/Robbie/Robbie/11164
+#EXTINF:-1 tvg-id="utv.uk" tvg-name="UTV (HD)" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxQUDxERExERERISERAWEBgSGBAQExEbGRMYGhYYFBgcHysiGhw0IhYYIzQjKCwuMTE2GSE3PEM8OyswMS4BCwsLDw4PHRERHTApIiguMzAzMjIwLjA5MDIwMjMuMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMP/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAwEBAAMAAAAAAAAAAAAAAQYHBQQCAwj/xABAEAACAQIDBQYDBAcHBQAAAAAAAQIDEQQSIQUGBzFBEyJRYXGBFDKRI0KhsRVScrPB0dI0Q2J0gpLwJCUzY2T/xAAaAQEAAgMBAAAAAAAAAAAAAAAABAYCAwUB/8QAMREBAAIBAgMFBwQCAwAAAAAAAAECAwQREiExBUFRYXETIoGhsdHwkcHh8TKyFDRS/9oADAMBAAIRAxEAPwDZgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFxcCQRckACLi4Egi5IAAAAAABBIAEEgAAAAAAAACs7/7zvBYeLglKtVk40s3yxsrym11tdaeaLMZzxmpwfwWecoa4i2WOe+lPzVgzx47ZLRSvWVRhv3jlUz/ABU273ytU3D0y25Gr7mbfWMwka2VRmpShVitUppJu3k00/cxCeHodK1S/wDipRt+EzUuDdNRwNdKamvi5u6Ul/c0tGn1Ddm0mXFXivHL1j+/kvIACM+qvWjCEpzkowhFylKTsopLVtma7d4i16spxwVPJTg7Z3HtJy8JZeUFppe/8DrcY9oungqdJO3b1Up26xgs1vS+Uy3Z20HSqxqatJ95JuOZdVdHtdt/e6MbcXDPD1WTDb2Y93bxNaTS1jlprLrzXd1PrxG9e0LXWKrr2pf0nvw06VaHaU7tfeyWzRfhOHR+a0FTBaaRzq3SM7r1WpYtPTDWkRFaz57Rz+PP87lfzazJ7Sd4mJ8N5VzFb57Ti9MbW/20f6TzLfnardljay/00f6Du/orO3pKPpmd/axyd5NlKlSg4do6kp2so37tnduy06L3JGTBprbRwRE+Wzdj1l52jnvKYb+bQpvvY6rVl+rlpKPu1E9uzt89ozqRcsVUs5R7qVKKSvqr5dEVzAbLm2vs5tt/qy/kWLBbJUVKVRPRcu8or9uS1/0xu2YzhwYq8V6129In+Z/NoY5dRbfaszv+dIhecPvJVlJNVdG5aPJqo83y5XfMjd7iTCpWdGvGNOMptUqqfceunaJ/Lfx5amf7Sx7pUJTu1PEXhSi9JQpffk10u1ZLz8jm7MwVSrFSSUab0Up6Rl45Vzl7FVz5cU5rZKT7nKsd3OOu0evLl12nyT9DW2PFve2/rP3fo5ArO4ePcsNGjOcpzoxilKaSc48ovn05a+RZjytotG8JtbRaN4Dm7w7T+Hw1Stlc5Ri+zgk25yfyxsvP8LnSKbvZj+0qqnF92k2vWXX6cvqadVqIwY+Ofg8vkrSN7KJit5NqQtKdXFQUtV3Ul6fLp6M+eB29tOriKOGWJrxqVnHKpKKaTu8zWW6Vk5eiLCsKoq9S9pJ2j1l7HW3E3chGpUxzTcpxyUs13livmkr+NkvSPmRtJrpz24Zjz5MaZq5P8Xv35xVXDbGxNSnVkq1GhHLUeVzck4pyd1a716dSl7icRc2ycTLGbQpLFrt+w7R0qc9KfcyxSSfe8i48VIt7Fx6Sbbo6Jav54mW8P9wsLidkYrFV6VXt6XxHZ2lOC7tLNHu9dTo+LajZXEDaMtj4/Eyxc3Wo4jBxpSyUe6puWZWy2d7Ln4E4TeXeCGBjtNYiNbDXeZSjRk4pSytziop2v1TK/sXDz/QO01knd4nAWWWV3rM6GzN6sVPY62Nh8DVqTnnjOajUm8sqmbSKWnhdvQPIbLw83qW0cDDEOKp1FKUK0U80Yyj1i/Bpp+V7dLllKdwm3XqYDZ0adayrVakqlSKd1C9lGN/GyV/NlxEvQAACgcXcNnjhdL5XX9rqBfyj8UkrYZvo61vDlDma8s7Ul0eyf+5T4/6yzapgLK9mabwjoZcDVX/1S/dUihuq3pdPybT/AANG4Zu+DqaW/wCol+6pkfDeZttu7/bVY/4sztG+8LSACYp6i8WcLCpSw8Zxk1nqWlHnDurX/iMr2hsedNOUX2kFza0lH1X8jW+KD+yw+jffqcundRRqfiiHlzWpfaFk0XZ2HU6Os3jnz5x16/P4ws3A/CQ+Gr4jKnUlV7PN1UVGLyp+F3c0YqXDLDxjharjFRzV22lor5I30LaSq24oiXBz47Yctscz0nZDel/DmZrt3izlqunhaMasYtrPUcrStzcYrp5tl82//Y8TZ2fw9e3l9nIwCrSUVbRrTSK09/E7PZWlw5uK2WN9ukd3nu52q1Fse1Y72ybkb7QxylCUOyrQV3G+aM4/rQfXnyLUYbwurt7YwyV7NV1Lwa7Cb99UjciN2hp6YM3DTpMb+nX7NunyWvTeyr75bn0MVav2UJYmmvs27qNSydo1UvnWt0vHyuU7C4Szc5u8raylZNW6JfdXktDWSo7y7PhTm6uW8Z9FyzdV6dSt9qY78MZKd3KfTy/dp1eLiiLb9HO2VVdKpCpG78bcpJ819C+UqilFSTumk0ZxXxuWKzPItcsfvS9FzfqWHcva6kuwakrKUoOVlfW7S187/UjdlZslbzjv0np6/wA/X1atLnrFvZ+P1drbWN7Ki5K2aWkL6avr7cymQmo3bevlzv6s6G3sf21VqMu5HSNmlfxdznKkvFGOszUzZPGI5R+8/ng06rJa9/dnlCMHgZV6ipxeXN88neU8q53ZoFGkoxUYq0YpJLwSOVuzgMlPtGu9Px5qPT68/odk6uixRTHxbbTP5CZo8M46b2neZ+ncEkMkmJYAAAAAAAAU/iOllw9/Gt+UC4FQ4qUZ/o91aavKlOMn5Rfdk/xRryxvSYhN7OvFdVSZ8dv1jZRq2ChLmkX3hrBRwtSKbdq8nr0vThb8mY7R2/O/fuvNFy3B3qjRrNVJJ0aiSlJXeRr5ZNc1zs/W5CxTwXjeFo7Qw3z6W1aW3nrt6c+UNaB9dGtGUVKMlKMleLTTTXimfHE4iMIOc5KEIq8pSail6tnRUpTuKsu5h0nrnqO3j3UZ/Vxco6qzS53ST9JNa+/5nq333vjisW8jfZUkoQzJxbu7udn0enskcaWKv0tJLXzRrtjmMnDkjlK59m0iujrWf8o338t5mdvzv3hrPC7Eqpg5ySa+3kmn4qES2lb4dbPdHZtJSVpVHKq1ytnfdX+3KWQzikU92J32VXWZIyai9o8ZeLbUb4XELXWhVWmr+SXJGFbTw0IX7SsoeEXGKl9M1/wNt3sX/bsbbR/CYm3S32Mj844LZV2le3K+VfzOloLZ44ow13+kfq5Oqx0taLWtttv3c164XOi9pUHCSvara/zS+xnyNpMk4ZbMhTxtJxTuu158/wDxS5mtmGv9p7SPazG+3d6yz0nBwTwb7b94eLa+AVajOk24tpOMlo4tO8Wn6ntBB236pFqxaJieksneDcKk3V1qKUk83Sz5LyPn8W4u8ZZWuTT1LHv7su2XER0T0rW5t6KP8voUTH7Q7LRRs7XbqaWOFbTTXJwzz+ypauM+PNOGvLw848d3T7XxtbzOhutSWIxKgpQcY96rbW0V+V+X1M7xu1XUlZSlU9Pl/wCehs3Dfd74XBRc1avXy1K3jHTuQ9k/q2S8WkiZ95J0XZk2vE5J6c5j9pWdKysSAdJZhkkEgAAAAAAAADz4zDRqU505xUoVISjNPk1JWa/E9BAGB71bl1sNiJxVpUpNulKz766ZvBrkyvzpzpu+sH+DX8T9I7S2fTr03TqRzLmvFPxT6MoG8G4NSOZ0oqrDwV8/vHk/Yj5ItHWN4+az6HtDDlrFMs8N/Hun7eaj7J3krwWWnWq034QlUjCfor2Ptx216tZfa1alT9uVSSXom7I8m1Ni1KTalTqKKfei1OMqf+Om2fPZ+z61RqMKc6r6OnGclJPrdKy8z3HmnHtak7x84dqK45nfLERP/rlz+P8APz3eHH4O6vF2drPz8js8Nd26mMxCzpqhQlF1ZNaTV7ql+1p7JvyLNu/w3rVGpYlqlT6pNOpLyta0fXmaRszZ1OhSVKlBQhFaJfi2+bfmyZfLxRvCvdoazFjnbT23t0mY6fr3z6f36oQSSSVkuSXQ+QBqV9zt5f7Di/8AK4j91IwnBSjG33peX8Wb/tDCqrSqUpfLVp1IS9JRcX+ZiGM2A8HVcMS6is7RdODyzXRxm9PYsHYmWsVvSeu8TEePo5+urvtPcsXD+vfH0U//AHWtol9lM1UofD7Zs3UVdUXQoxjJQ7Rfa1m1a7v8sUm+XNl8Of2nets/Lujb6t+lpw4wAHPSX0YzDxqQlCXyzTi/fqvM/N2+ccRDH16FdtOlNxjFXUctrwkvG6ad/M/TBnfF/dXtoU8ZSp5q9K1OaXzTg33Wl1ak17Sfge0x1veOKdvNpvgra0X296O9UeE+7fxGLVScb0cPac7rSUv7uH17z8l5m5HC3I3eWCwVOjo6j79eS+9Uklm9lZJeh3T2/BxTwdGdKRSOQADFmEkEgAAAAAAAAAAAIsSAIsCQBFiQAAAAEEgCLEgAAAAIJAAAAAABFiQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//Z" group-title="UK | ENTERTAINMENT",UTV (HD)
+http://gtvstreams.me:80/Robbie/Robbie/11165
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="UK | ENTERTAINMENT",Sony Channel
+http://gtvstreams.me:80/Robbie/Robbie/11419
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="SONY MAX (FHD)" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/03/sonymax2002.jpg" group-title="UK | ENTERTAINMENT",SONY MAX (FHD)
+http://gtvstreams.me:80/Robbie/Robbie/11420
+#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="SONY MAX 2" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2019/03/sonymax2002.jpg" group-title="UK | ENTERTAINMENT",SONY MAX 2
+http://gtvstreams.me:80/Robbie/Robbie/11421
+#EXTINF:-1 tvg-id="sonytv.uk" tvg-name="SONY TV (FHD)" tvg-logo="https://gumlet.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2016%2F11%2F49483%2FSony-Logo.jpg?auto=format%2Ccompress&w=1200" group-title="UK | ENTERTAINMENT",SONY TV (FHD)
+http://gtvstreams.me:80/Robbie/Robbie/11422
+#EXTINF:-1 tvg-id="starplus.uk" tvg-name="Star Plus (FHD)" tvg-logo="https://cdn-animation.artstation.com/p/thumbnails/000/380/519/thumb.jpg" group-title="UK | ENTERTAINMENT",Star Plus (FHD)
+http://gtvstreams.me:80/Robbie/Robbie/11423
+#EXTINF:-1 tvg-id="stv.uk" tvg-name="STV (FHD)" tvg-logo="https://www.logolynx.com/images/logolynx/21/213457d1a0dac048e99fa54d214d8e17.jpeg" group-title="UK | ENTERTAINMENT",STV (FHD)
+http://gtvstreams.me:80/Robbie/Robbie/11424
+#EXTINF:-1 tvg-id="" tvg-name="IN | StarzPlay CricLifeⓧ 3 FHD" tvg-logo="http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png" group-title="INDIA",IN | StarzPlay CricLifeⓧ 3 FHD
+http://gtvstreams.me:80/Robbie/Robbie/692335
+#EXTINF:-1 tvg-id="" tvg-name="IN | StarzPlay CricLifeⓧ 3 HD" tvg-logo="http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png" group-title="INDIA",IN | StarzPlay CricLifeⓧ 3 HD
+http://gtvstreams.me:80/Robbie/Robbie/692334
+#EXTINF:-1 tvg-id="" tvg-name="IN | StarzPlay CricLifeⓧ 2 FHD" tvg-logo="http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png" group-title="INDIA",IN | StarzPlay CricLifeⓧ 2 FHD
+http://gtvstreams.me:80/Robbie/Robbie/692333
+#EXTINF:-1 tvg-id="" tvg-name="IN | StarzPlay CricLifeⓧ 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png" group-title="INDIA",IN | StarzPlay CricLifeⓧ 2 HD
+http://gtvstreams.me:80/Robbie/Robbie/692332
+#EXTINF:-1 tvg-id="" tvg-name="IN | StarzPlay CricLifeⓧ 1 FHD" tvg-logo="http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png" group-title="INDIA",IN | StarzPlay CricLifeⓧ 1 FHD
+http://gtvstreams.me:80/Robbie/Robbie/692331
+#EXTINF:-1 tvg-id="" tvg-name="IN | StarzPlay CricLifeⓧ 1 HD" tvg-logo="http://xplatinmedia.com:8080/images/cf60354f7adc5e72f6b13744081c5b99.png" group-title="INDIA",IN | StarzPlay CricLifeⓧ 1 HD
+http://gtvstreams.me:80/Robbie/Robbie/692330
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Marathiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c33f6095e252176f256b38a61f7edf17.png" group-title="INDIA",IN | Sony Marathiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692329
+#EXTINF:-1 tvg-id="" tvg-name="IN | Zingⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e837750280699bf5a18a62cd385b147e.png" group-title="INDIA",IN | Zingⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692328
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5eb980fe16f99d57297a4b698bae2653.png" group-title="INDIA",IN | ZEE TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692327
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Tamilⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1e1a26e55620c8235dc7b7abb0c0aa1c.png" group-title="INDIA",IN | ZEE Tamilⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692326
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Talkiesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/96d2f30725fd54cec0fb41ca5e0d44b4.png" group-title="INDIA",IN | ZEE Talkiesⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692325
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Salaamⓧ" tvg-logo="http://xplatinmedia.com:8080/images/167695b3c6516a2555b851a474f6570e.png" group-title="INDIA",IN | ZEE Salaamⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692324
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE News HDⓧ" tvg-logo="http://xplatinmedia.com:8080/images/125e741865e9ee25e4ee3a8b31d5050a.png" group-title="INDIA",IN | ZEE News HDⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692323
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Hindustanⓧ" tvg-logo="http://xplatinmedia.com:8080/images/80d8634ad7a44242f6dc4df3d30796c0.png" group-title="INDIA",IN | ZEE Hindustanⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692322
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Cinemaⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/e964e5104a99b33748593b649902f2a0.png" group-title="INDIA",IN | ZEE Cinemaⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692321
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Cinemaⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/e964e5104a99b33748593b649902f2a0.png" group-title="INDIA",IN | ZEE Cinemaⓧ SD
+http://gtvstreams.me:80/Robbie/Robbie/692320
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Cinema USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e964e5104a99b33748593b649902f2a0.png" group-title="INDIA",IN | ZEE Cinema USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692319
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Cafeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fad3ecbf1e0e4ff82c1567fc1be91b28.png" group-title="INDIA",IN | ZEE Cafeⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692318
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Bollywoodⓧ" tvg-logo="http://xplatinmedia.com:8080/images/880942c12bea180e5c6f055bc18d4da7.png" group-title="INDIA",IN | ZEE Bollywoodⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692317
+#EXTINF:-1 tvg-id="" tvg-name="IN | Zee Banglaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e83b44817902f5a3ba20d718fe5368f0.png" group-title="INDIA",IN | Zee Banglaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692316
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Bangla Cinemaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d38e59a480296d62d953b9d8a843bf67.png" group-title="INDIA",IN | ZEE Bangla Cinemaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692315
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Anmolⓧ" tvg-logo="http://xplatinmedia.com:8080/images/019155fa23805d571f4a49505772d53b.png" group-title="INDIA",IN | ZEE Anmolⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692314
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Anmol Cinemaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f70800b817303d1146b2bab87298e35b.png" group-title="INDIA",IN | ZEE Anmol Cinemaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692313
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Aflamⓧ" tvg-logo="http://xplatinmedia.com:8080/images/16baeb928867ed19ddc4910e4936f4c6.png" group-title="INDIA",IN | ZEE Aflamⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692312
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Actionⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c264853c4c5e1a9a92a8cfc8ea12ed90.png" group-title="INDIA",IN | ZEE Actionⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692311
+#EXTINF:-1 tvg-id="" tvg-name="IN | Yupp Thiraiⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/c51133be48ed21cc05ae1f3a86095e6f.png" group-title="INDIA",IN | Yupp Thiraiⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692310
+#EXTINF:-1 tvg-id="" tvg-name="IN | Wow Cinema Oneⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8f3f87dd84a649491c2201b6dab353dc.png" group-title="INDIA",IN | Wow Cinema Oneⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692309
+#EXTINF:-1 tvg-id="" tvg-name="IN | Willow Cricketⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/b47b2270c7c4339edf5f84a3de8c9366.png" group-title="INDIA",IN | Willow Cricketⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692308
+#EXTINF:-1 tvg-id="" tvg-name="IN | WAH Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cbfe33555d5edadf6c0cb9587a98ae17.png" group-title="INDIA",IN | WAH Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692307
+#EXTINF:-1 tvg-id="" tvg-name="IN | Vendharⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/beee828d6d84524b1310b006c2669362.png" group-title="INDIA",IN | Vendharⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692306
+#EXTINF:-1 tvg-id="" tvg-name="IN | Velichamⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f0db71e39af49b18ebdb81fb957b6e5c.png" group-title="INDIA",IN | Velichamⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692305
+#EXTINF:-1 tvg-id="" tvg-name="IN | Vasanth TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4615952d5cec46e077a6b5cb77797141.png" group-title="INDIA",IN | Vasanth TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692304
+#EXTINF:-1 tvg-id="" tvg-name="IN | Vaanvavilⓧ " tvg-logo="http://xplatinmedia.com:8080/images/128e39055e8807bdc0a22ee5254b048e.png" group-title="INDIA",IN | Vaanvavilⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692303
+#EXTINF:-1 tvg-id="" tvg-name="IN | Vaanavil TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9fb54bd819b47d19f6786e75d9a953ec.jpeg" group-title="INDIA",IN | Vaanavil TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692302
+#EXTINF:-1 tvg-id="" tvg-name="IN | UTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0e0e1cd03841a036d59552010a520aab.png" group-title="INDIA",IN | UTVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692301
+#EXTINF:-1 tvg-id="" tvg-name="IN | Utsav Plusⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b1f891dc84d092e50fdd0f02baaa6a41.png" group-title="INDIA",IN | Utsav Plusⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692300
+#EXTINF:-1 tvg-id="" tvg-name="IN | Utsav Plus UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b1f891dc84d092e50fdd0f02baaa6a41.png" group-title="INDIA",IN | Utsav Plus UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692299
+#EXTINF:-1 tvg-id="" tvg-name="IN | TV9 Teluguⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0c1d0980a3af37bead113614dd6ecb58.png" group-title="INDIA",IN | TV9 Teluguⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692298
+#EXTINF:-1 tvg-id="" tvg-name="IN | Travel XPⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a793addc1ef18c58cbd38fe0a5860260.png" group-title="INDIA",IN | Travel XPⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692297
+#EXTINF:-1 tvg-id="" tvg-name="IN | TLC Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c9faff2e2b35d1fa883ffc3f24349e1c.png" group-title="INDIA",IN | TLC Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692296
+#EXTINF:-1 tvg-id="" tvg-name="IN | Thanthi TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9ef92146e4c8000ca7681c699ef4cfbd.png" group-title="INDIA",IN | Thanthi TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692295
+#EXTINF:-1 tvg-id="" tvg-name="IN | Suvarna News 24×7ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fd1bffdbc76adcc3a07d1daacd1a82d4.png" group-title="INDIA",IN | Suvarna News 24×7ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692294
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sun TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fe8443f93018b3c3b9131ea5de9a96ba.png" group-title="INDIA",IN | Sun TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692293
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sun TV USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fe8443f93018b3c3b9131ea5de9a96ba.png" group-title="INDIA",IN | Sun TV USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692292
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sun Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/18a7d0cc13697a489f4b3b334d75a70e.png" group-title="INDIA",IN | Sun Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692291
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sun Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/41cd9c658e77cf77d30b6f2c1c2aea9d.png" group-title="INDIA",IN | Sun Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692290
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sun Lifeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b355165133bbf195759bc99b3c48ee78.png" group-title="INDIA",IN | Sun Lifeⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692289
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Vijayⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6115c5ed6930edae01ecca831fd4d4b2.png" group-title="INDIA",IN | Star Vijayⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692288
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Vijay UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2f87884ba0e879facc16356892260012.png" group-title="INDIA",IN | Star Vijay UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692287
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Vijay Superⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a8de86897613ad6f4cb144b15697b8d8.png" group-title="INDIA",IN | Star Vijay Superⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692286
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports Select 2ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6231d7d5331ba15d3bcf20ce38f79f55.png" group-title="INDIA",IN | Star Sports Select 2ⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692285
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports Select 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/c94fcbb1366e0e89dd6b62368edf23a0.png" group-title="INDIA",IN | Star Sports Select 1ⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692284
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports 3ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0f381441eecdbf9a826bd3d147e6dde1.png" group-title="INDIA",IN | Star Sports 3ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692283
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/adf534703ecf1ab0663d4ec21d75da74.png" group-title="INDIA",IN | Star Sports 2ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692282
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports 1ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/6d24b400d99d9374fac1dcd20e406842.png" group-title="INDIA",IN | Star Sports 1ⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692281
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports 1ⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/6d24b400d99d9374fac1dcd20e406842.png" group-title="INDIA",IN | Star Sports 1ⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/692280
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Sports 1 Hindiⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/1431a993c9c8eeca92ef0268d7639fe5.png" group-title="INDIA",IN | Star Sports 1 Hindiⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/692279
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Plusⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6dd3856d7f365309d09c48f82e1def97.png" group-title="INDIA",IN | Star Plusⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692278
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Plus HDⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6dd3856d7f365309d09c48f82e1def97.png" group-title="INDIA",IN | Star Plus HDⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692277
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Moviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9bab347e290a3643559b32674242de33.png" group-title="INDIA",IN | Star Moviesⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692276
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Maaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2ad98075376231e51ff9c806d595c000.png" group-title="INDIA",IN | Star Maaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692275
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Goldⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fcfe00fa38bc32240590bf806443b4ce.png" group-title="INDIA",IN | Star Goldⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692274
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Gold UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fcfe00fa38bc32240590bf806443b4ce.png" group-title="INDIA",IN | Star Gold UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692273
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Gold Selectⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3c93793828f5555a3683c0514130f847.png" group-title="INDIA",IN | Star Gold Selectⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692272
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Gold 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6024d7c7bfa161edab3d218ccba47382.png" group-title="INDIA",IN | Star Gold 2ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692271
+#EXTINF:-1 tvg-id="" tvg-name="IN | Star Bharatⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a1ec04b7f1a0d406dfd007c729af357b.png" group-title="INDIA",IN | Star Bharatⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692270
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Yay Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7dd95990eb10bc2bba6a21bd9031cb8e.png" group-title="INDIA",IN | Sony Yay Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692269
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Wahⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9ea628db55961703cbfd84749bf42fea.png" group-title="INDIA",IN | Sony Wahⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692268
+#EXTINF:-1 tvg-id="" tvg-name="IN | SONY TVⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/26f45801578cf10b1271f13ab8ce02b8.png" group-title="INDIA",IN | SONY TVⓧ SD
+http://gtvstreams.me:80/Robbie/Robbie/692267
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony TVⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/26f45801578cf10b1271f13ab8ce02b8.png" group-title="INDIA",IN | Sony TVⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692266
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Ten 3ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e6ccecf90548bec03d0e42202e675fa4.png" group-title="INDIA",IN | Sony Ten 3ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692265
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Ten 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e4d2aa0838986d12f78e48284cd5abda.png" group-title="INDIA",IN | Sony Ten 2ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692264
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Ten 1ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1dfe60147466fba4c505b1bf44bd18a1.png" group-title="INDIA",IN | Sony Ten 1ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692263
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Sixⓧ SD " tvg-logo="http://xplatinmedia.com:8080/images/175fd1848a4a4b13a95a8deadf38f2d3.png" group-title="INDIA",IN | Sony Sixⓧ SD 
+http://gtvstreams.me:80/Robbie/Robbie/692262
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Sabⓧ HD " tvg-logo="http://xplatinmedia.com:8080/images/b2ae5758b820d195941b7ab56c1d6343.png" group-title="INDIA",IN | Sony Sabⓧ HD 
+http://gtvstreams.me:80/Robbie/Robbie/692261
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Sab UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b2ae5758b820d195941b7ab56c1d6343.png" group-title="INDIA",IN | Sony Sab UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692260
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Pixⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ff2420103e9206acaad6c0f49773cc6e.png" group-title="INDIA",IN | Sony Pixⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692259
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Palⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e12ec124d011d0b27e310e91c933d360.png" group-title="INDIA",IN | Sony Palⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692258
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Maxⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5bf47896060af969595e3a785d4e6512.png" group-title="INDIA",IN | Sony Maxⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692257
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Max 2ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/776e71c306e136fe290d00d49221a758.png" group-title="INDIA",IN | Sony Max 2ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692256
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Max (UK)ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5bf47896060af969595e3a785d4e6512.png" group-title="INDIA",IN | Sony Max (UK)ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692255
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony BBC Earthⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8011775c2157ab63b26ad8b646f00652.png" group-title="INDIA",IN | Sony BBC Earthⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692254
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sony Aathⓧ" tvg-logo="http://xplatinmedia.com:8080/images/113a02615c2f7facdfd925fbd333725a.png" group-title="INDIA",IN | Sony Aathⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692253
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sikh Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bad8e63428b4fa1c16fa3526588e4249.png" group-title="INDIA",IN | Sikh Channelⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692252
+#EXTINF:-1 tvg-id="" tvg-name="IN | Seithigalⓧ OFFLINE " tvg-logo="http://xplatinmedia.com:8080/images/70765199cd738331831f1be4fde5a607.png" group-title="INDIA",IN | Seithigalⓧ OFFLINE 
+http://gtvstreams.me:80/Robbie/Robbie/692251
+#EXTINF:-1 tvg-id="" tvg-name="IN | SD Mediaⓧ OFFLINE" tvg-logo="" group-title="INDIA",IN | SD Mediaⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692250
+#EXTINF:-1 tvg-id="" tvg-name="IN | Santhora TVⓧ" tvg-logo="" group-title="INDIA",IN | Santhora TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692249
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sanjhaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e160dbb4d3e0064a346eaa62fea3e3ce.png" group-title="INDIA",IN | Sanjhaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692248
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sanjha TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1bf2e687287824d5bfcf322ea6fe153d.png" group-title="INDIA",IN | Sanjha TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692247
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sana TVⓧ " tvg-logo="http://xplatinmedia.com:8080/images/586e69ad8b5a5aac0c19d00ade4da150.png" group-title="INDIA",IN | Sana TVⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692246
+#EXTINF:-1 tvg-id="" tvg-name="IN | Sahara Oneⓧ" tvg-logo="http://xplatinmedia.com:8080/images/22b1ea5b815a2da3432e8017ab80d09e.png" group-title="INDIA",IN | Sahara Oneⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692245
+#EXTINF:-1 tvg-id="" tvg-name="IN | Romedy Nowⓧ" tvg-logo="http://xplatinmedia.com:8080/images/476d3b8f1d64a5190761766705e1cfd9.png" group-title="INDIA",IN | Romedy Nowⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692244
+#EXTINF:-1 tvg-id="" tvg-name="IN | Republic Bharat Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ea1c322a604a7d32e62553e0699b9e05.png" group-title="INDIA",IN | Republic Bharat Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692243
+#EXTINF:-1 tvg-id="" tvg-name="IN | Reporter TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b18170d7552be3d4267587b38469da16.png" group-title="INDIA",IN | Reporter TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692242
+#EXTINF:-1 tvg-id="" tvg-name="IN | Rajya Sabha TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/17487e09f25bada7d3d76f609e7a1620.png" group-title="INDIA",IN | Rajya Sabha TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692241
+#EXTINF:-1 tvg-id="" tvg-name="IN | Raj TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c15d980e5c832a2f3e6a488a4a456e37.png" group-title="INDIA",IN | Raj TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692240
+#EXTINF:-1 tvg-id="" tvg-name="IN | Raj Musixⓧ" tvg-logo="http://xplatinmedia.com:8080/images/27431fc2378fffb1b592553b07d6a45d.png" group-title="INDIA",IN | Raj Musixⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692239
+#EXTINF:-1 tvg-id="" tvg-name="IN | Raj Digital Plusⓧ" tvg-logo="http://xplatinmedia.com:8080/images/74a1824c204c437a9b0a7bfb04c7e855.png" group-title="INDIA",IN | Raj Digital Plusⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692238
+#EXTINF:-1 tvg-id="" tvg-name="IN | Raj Digital Plus USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/74a1824c204c437a9b0a7bfb04c7e855.png" group-title="INDIA",IN | Raj Digital Plus USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692237
+#EXTINF:-1 tvg-id="" tvg-name="IN | Puthuyugam TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/574b44e32c8100132513fc6740c6ca9c.png" group-title="INDIA",IN | Puthuyugam TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692236
+#EXTINF:-1 tvg-id="" tvg-name="IN | Puthuyugam TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/74e98199892469e43ee5a30e5b56007f.png" group-title="INDIA",IN | Puthuyugam TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692235
+#EXTINF:-1 tvg-id="" tvg-name="IN | Puthiya Thalaimuraiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/329b9012c779beb50c2728e718d35a27.png" group-title="INDIA",IN | Puthiya Thalaimuraiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692234
+#EXTINF:-1 tvg-id="" tvg-name="IN | Public Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0c655f557739fe4a571e03af3f01ea52.png" group-title="INDIA",IN | Public Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692233
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Simranⓧ" tvg-logo="http://xplatinmedia.com:8080/images/48055c92d3777ff48589a4464e50cef0.png" group-title="INDIA",IN | PTC Simranⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692232
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b5dd48f1c1c735e8b2fe831b3172c5c5.png" group-title="INDIA",IN | PTC Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692231
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3fd5ef18dffd93fb6f12b8eeaec9bf1c.png" group-title="INDIA",IN | PTC Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692230
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Punjabi Goldⓧ" tvg-logo="http://xplatinmedia.com:8080/images/11acc5ff466f88bed1ef94cc6ce605e8.png" group-title="INDIA",IN | PTC Punjabi Goldⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692229
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/658eb0bac31b300c9cb5ade93dcd402c.png" group-title="INDIA",IN | PTC Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692228
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8f201279e12c7d33a6ca183a62fd6aae.png" group-title="INDIA",IN | PTC Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692227
+#EXTINF:-1 tvg-id="" tvg-name="IN | PTC Chakde Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c058554c726f04c9487ac353185d2ed6.png" group-title="INDIA",IN | PTC Chakde Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692226
+#EXTINF:-1 tvg-id="" tvg-name="IN | Pratidin Timeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c19c301fe14511c2466f66bce527b75a.png" group-title="INDIA",IN | Pratidin Timeⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692225
+#EXTINF:-1 tvg-id="" tvg-name="IN | Pop Patakaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e0b110f30a100948701f20721eee6f26.png" group-title="INDIA",IN | Pop Patakaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692224
+#EXTINF:-1 tvg-id="" tvg-name="IN | Polimer TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ffce500937bb68f8141714a2adbd7056.png" group-title="INDIA",IN | Polimer TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692223
+#EXTINF:-1 tvg-id="" tvg-name="IN | Polimer Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ec7886360637cfcc1f30dae95fca95ab.png" group-title="INDIA",IN | Polimer Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692222
+#EXTINF:-1 tvg-id="" tvg-name="IN | Pogo Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c6c3b3802961fb7e15ee4e0647604a2b.png" group-title="INDIA",IN | Pogo Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692221
+#EXTINF:-1 tvg-id="" tvg-name="IN | Pitaaraⓧ" tvg-logo="http://xplatinmedia.com:8080/images/659e197a3974d5fba85292c1fb524d6f.png" group-title="INDIA",IN | Pitaaraⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692220
+#EXTINF:-1 tvg-id="" tvg-name="IN | Peace TV Urduⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cc043f52d8e35867bb341ab084ba134b.png" group-title="INDIA",IN | Peace TV Urduⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692219
+#EXTINF:-1 tvg-id="" tvg-name="IN | Peace TV Banglaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/de8c942c322aa52134322b671d625769.png" group-title="INDIA",IN | Peace TV Banglaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692218
+#EXTINF:-1 tvg-id="" tvg-name="IN | PBN Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0c655f557739fe4a571e03af3f01ea52.png" group-title="INDIA",IN | PBN Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692217
+#EXTINF:-1 tvg-id="" tvg-name="IN | Nickelodeonⓧ" tvg-logo="http://xplatinmedia.com:8080/images/314a14de942e23d192016fb5cdfc8484.png" group-title="INDIA",IN | Nickelodeonⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692216
+#EXTINF:-1 tvg-id="" tvg-name="IN | Nick Sonicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/eb68a2a6d7ce726db620e30c39d98ac5.png" group-title="INDIA",IN | Nick Sonicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692215
+#EXTINF:-1 tvg-id="" tvg-name="IN | Nick HD+ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/df0b5c44aea372542b3f1e5eec0565a1.png" group-title="INDIA",IN | Nick HD+ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692214
+#EXTINF:-1 tvg-id="" tvg-name="IN | News18 Lokmatⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/9d9835a34e48f3bb708dd9a59ec7f27f.png" group-title="INDIA",IN | News18 Lokmatⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692213
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 7ⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/e3d1960f57890f278fd82c96ad772bcb.png" group-title="INDIA",IN | News 7ⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692212
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 24ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3801a7ba8bf4404ac627745638151b87.png" group-title="INDIA",IN | News 24ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692211
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Uttarakhandⓧ " tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Uttarakhandⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692210
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Urduⓧ " tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Urduⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692209
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Tamilⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Tamilⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692208
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 TamilNaduⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 TamilNaduⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692207
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Rajasthanⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Rajasthanⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692206
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Punjabⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Punjabⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692205
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Malayalamⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Malayalamⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692204
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Jharkhandⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Jharkhandⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692203
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Indiaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Indiaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692202
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Odiaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Odiaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692201
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Kannadaⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Kannadaⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692200
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18  Gujaratiⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18  Gujaratiⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692199
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Chhattisgarhⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="INDIA",IN | News 18 Chhattisgarhⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692198
+#EXTINF:-1 tvg-id="" tvg-name="IN | NDTV Indiaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b8edce0e64061f9aa0376afce29563de.png" group-title="INDIA",IN | NDTV Indiaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692197
+#EXTINF:-1 tvg-id="" tvg-name="IN | Nazranaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dda6c85ef8c29e92dc7c6c257f2b36c7.png" group-title="INDIA",IN | Nazranaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692196
+#EXTINF:-1 tvg-id="" tvg-name="IN | National Geographicⓧ HD " tvg-logo="http://xplatinmedia.com:8080/images/55917d5916e468dda8e95cd208a4473f.png" group-title="INDIA",IN | National Geographicⓧ HD 
+http://gtvstreams.me:80/Robbie/Robbie/692195
+#EXTINF:-1 tvg-id="" tvg-name="IN | Nat Geo Wildⓧ " tvg-logo="http://xplatinmedia.com:8080/images/9a3112670d7e4ccf92e6b55e013f911b.png" group-title="INDIA",IN | Nat Geo Wildⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692194
+#EXTINF:-1 tvg-id="" tvg-name="IN | Namdhariⓧ" tvg-logo="http://xplatinmedia.com:8080/images/37063a8f00fd315b46848bc13dc59f82.png" group-title="INDIA",IN | Namdhariⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692193
+#EXTINF:-1 tvg-id="" tvg-name="IN | MTV Beatsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/91528c55715bdafd57499447a6bbee13.png" group-title="INDIA",IN | MTV Beatsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692192
+#EXTINF:-1 tvg-id="" tvg-name="IN | Movies Nowⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a08996ab34f625b8b945149c3091fc53.png" group-title="INDIA",IN | Movies Nowⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692191
+#EXTINF:-1 tvg-id="" tvg-name="IN | MNXⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/b5d18e0935eb9d05a58de6e98239eb07.png" group-title="INDIA",IN | MNXⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692190
+#EXTINF:-1 tvg-id="" tvg-name="IN | MK TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/091a10a133e9d6a9deb8578219e9b2bb.png" group-title="INDIA",IN | MK TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692189
+#EXTINF:-1 tvg-id="" tvg-name="IN | MK Tunesⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/469911a6c62e6677606c194758e285f7.png" group-title="INDIA",IN | MK Tunesⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692188
+#EXTINF:-1 tvg-id="" tvg-name="IN | MK Sixⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/446729eb6f5c78e13a588eb8d33ad8f8.png" group-title="INDIA",IN | MK Sixⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692187
+#EXTINF:-1 tvg-id="" tvg-name="IN | Mirror Nowⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e262c3e398a69ca921b9ce01b537c588.png" group-title="INDIA",IN | Mirror Nowⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692186
+#EXTINF:-1 tvg-id="" tvg-name="IN | MH1 Shradhaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2f739b87a392d063e911c1f69bfbcc8f.png" group-title="INDIA",IN | MH1 Shradhaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692185
+#EXTINF:-1 tvg-id="" tvg-name="IN | MH1 News Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f1534e31a9af8b943590415be5630e25.png" group-title="INDIA",IN | MH1 News Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692184
+#EXTINF:-1 tvg-id="" tvg-name="IN | Media Oneⓧ " tvg-logo="http://xplatinmedia.com:8080/images/7392ced2ff823fa80c2e6f845d295028.png" group-title="INDIA",IN | Media Oneⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692183
+#EXTINF:-1 tvg-id="" tvg-name="IN | Mazhavil Manoramaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/acb1871c6d2a22372286507ee37e9c02.png" group-title="INDIA",IN | Mazhavil Manoramaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692182
+#EXTINF:-1 tvg-id="" tvg-name="IN | Mathrubhumi Newsⓧ " tvg-logo="http://xplatinmedia.com:8080/images/839c60570f80579c5949f47aa9d65f26.png" group-title="INDIA",IN | Mathrubhumi Newsⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692181
+#EXTINF:-1 tvg-id="" tvg-name="IN | Mastiiiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1ba836feb9d122168db916423b563b58.png" group-title="INDIA",IN | Mastiiiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692180
+#EXTINF:-1 tvg-id="" tvg-name="IN | Manoranjan TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f816e3d022025808b08fef6db1390aba.png" group-title="INDIA",IN | Manoranjan TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692179
+#EXTINF:-1 tvg-id="" tvg-name="IN | Manoranjan Moviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e9a2139da6993ce46dcd431bb7634ca3.png" group-title="INDIA",IN | Manoranjan Moviesⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692178
+#EXTINF:-1 tvg-id="" tvg-name="IN | Mangalam TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c2f4786de64ab99c978bb9713e4978e1.png" group-title="INDIA",IN | Mangalam TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692177
+#EXTINF:-1 tvg-id="" tvg-name="IN | Maha Moviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/67dcd97eebc2afd341647f20dbf7c3fe.png" group-title="INDIA",IN | Maha Moviesⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692176
+#EXTINF:-1 tvg-id="" tvg-name="IN | Lok Sabha TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/053f0895ab8a812052ed94ffed4846e7.jpg" group-title="INDIA",IN | Lok Sabha TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692175
+#EXTINF:-1 tvg-id="" tvg-name="IN | Living Foodzⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bc19b85f767c07c42ca08809b5436b15.png" group-title="INDIA",IN | Living Foodzⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692174
+#EXTINF:-1 tvg-id="" tvg-name="IN | Life Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/41db994911be9131417997a48c6e0327.png" group-title="INDIA",IN | Life Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692173
+#EXTINF:-1 tvg-id="" tvg-name="IN | KTV USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/16fabcb7e02ffa2b3fa8e39594b542b3.png" group-title="INDIA",IN | KTV USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692172
+#EXTINF:-1 tvg-id="" tvg-name="IN | Khabrain Abhi Takⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9c5820fb53db3da3176a7296cedf32bc.png" group-title="INDIA",IN | Khabrain Abhi Takⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692171
+#EXTINF:-1 tvg-id="" tvg-name="IN | Kasthuri TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/1b46a86ec1b4bc330b9160d560aeac0b.png" group-title="INDIA",IN | Kasthuri TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692170
+#EXTINF:-1 tvg-id="" tvg-name="IN | Kappa TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/78166f10030ba3c6995e8fe08e0496f5.png" group-title="INDIA",IN | Kappa TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692169
+#EXTINF:-1 tvg-id="" tvg-name="IN | Kalaignar TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/64e103fe2ee232c6a77a46bd11c72609.png" group-title="INDIA",IN | Kalaignar TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692168
+#EXTINF:-1 tvg-id="" tvg-name="IN | Kairali Weⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9ea8941f1ddc8177c7888d361542a122.png" group-title="INDIA",IN | Kairali Weⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692167
+#EXTINF:-1 tvg-id="" tvg-name="IN | Kairali TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9ea8941f1ddc8177c7888d361542a122.png" group-title="INDIA",IN | Kairali TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692166
+#EXTINF:-1 tvg-id="" tvg-name="IN | Kairali Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9ea8941f1ddc8177c7888d361542a122.png" group-title="INDIA",IN | Kairali Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692165
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jus One TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b5942868696b20b365d33fbbea431ca0.png" group-title="INDIA",IN | Jus One TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692164
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jonack TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/05273368bee0f97baa7bc6da0809cbca.png" group-title="INDIA",IN | Jonack TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692163
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jhanjar Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1b546c290400d27a6d4b7855372c5899.png" group-title="INDIA",IN | Jhanjar Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692162
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jaya TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d73d4a76aa2f832b7480406a538a312d.png" group-title="INDIA",IN | Jaya TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692161
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jaya TV USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d73d4a76aa2f832b7480406a538a312d.png" group-title="INDIA",IN | Jaya TV USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692160
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jaya Plusⓧ" tvg-logo="http://xplatinmedia.com:8080/images/61c5d4246e0a0fc96c1b711aa9d14993.png" group-title="INDIA",IN | Jaya Plusⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692159
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jaya Moviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/76670e50470d1853ac50d1702fb061d8.png" group-title="INDIA",IN | Jaya Moviesⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692158
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jaya Max USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e9d2a6124719006d49a9496f7a5cfabd.png" group-title="INDIA",IN | Jaya Max USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692157
+#EXTINF:-1 tvg-id="" tvg-name="IN | Janta TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cf8efc239e5709710dcfaa32ef4f08c7.png" group-title="INDIA",IN | Janta TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692156
+#EXTINF:-1 tvg-id="" tvg-name="IN | Janam TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a1b070bec10ad2ea4071e3260d20ab85.png" group-title="INDIA",IN | Janam TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692155
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jalsha Movies HDⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6992157bc61003c10ecf167c447820fd.png" group-title="INDIA",IN | Jalsha Movies HDⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692154
+#EXTINF:-1 tvg-id="" tvg-name="IN | Jaihind TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a96513ed334d55c0e3585291ed35a77f.png" group-title="INDIA",IN | Jaihind TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692153
+#EXTINF:-1 tvg-id="" tvg-name="IN | Investigation Discoveryⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/40b462590a38f9512686637691f8b6eb.png" group-title="INDIA",IN | Investigation Discoveryⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692152
+#EXTINF:-1 tvg-id="" tvg-name="IN | India TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c2a4e5ab5967ba901b7519e7ed38fb27.png" group-title="INDIA",IN | India TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692151
+#EXTINF:-1 tvg-id="" tvg-name="IN | India TV Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1de31bde297b00d7b2cf039d88271ff9.png" group-title="INDIA",IN | India TV Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692150
+#EXTINF:-1 tvg-id="" tvg-name="IN | India Todayⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/39dc1e8911404288f7b8767a90b4dd05.png" group-title="INDIA",IN | India Todayⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692149
+#EXTINF:-1 tvg-id="" tvg-name="IN | India Todayⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/39dc1e8911404288f7b8767a90b4dd05.png" group-title="INDIA",IN | India Todayⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/692148
+#EXTINF:-1 tvg-id="" tvg-name="IN | IBC Tamilⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5a8c6f3bd845e04c01663edfd78ddb33.png" group-title="INDIA",IN | IBC Tamilⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692147
+#EXTINF:-1 tvg-id="" tvg-name="IN | IBC Kidsⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/2bf19d33bb416cba03ed6be4bd1b814e.png" group-title="INDIA",IN | IBC Kidsⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692146
+#EXTINF:-1 tvg-id="" tvg-name="IN | IBC Comedyⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a631869c2bf267a5647304fecd2e4d36.png" group-title="INDIA",IN | IBC Comedyⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692145
+#EXTINF:-1 tvg-id="" tvg-name="IN | IBC 24ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2539e84e56acf2ac925ba453ca385a04.png" group-title="INDIA",IN | IBC 24ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692144
+#EXTINF:-1 tvg-id="" tvg-name="IN | History TV18ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/af76f351972cc43a2cd171a8894e7501.png" group-title="INDIA",IN | History TV18ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692143
+#EXTINF:-1 tvg-id="" tvg-name="IN | HBOⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8be41803f7649a4e0b1551b9a0b6a6ed.png" group-title="INDIA",IN | HBOⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692142
+#EXTINF:-1 tvg-id="" tvg-name="IN | Geo News UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ec2a969d9c145c237bc76b6fd45d4666.png" group-title="INDIA",IN | Geo News UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692141
+#EXTINF:-1 tvg-id="" tvg-name="IN | Garv Gurbanⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fbec6aea62d634748d115b263e8ffa14.png" group-title="INDIA",IN | Garv Gurbanⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692140
+#EXTINF:-1 tvg-id="" tvg-name="IN | FOX Lifeⓧ " tvg-logo="http://xplatinmedia.com:8080/images/77feb56a416c138bc462f8040f31b5be.png" group-title="INDIA",IN | FOX Lifeⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692139
+#EXTINF:-1 tvg-id="" tvg-name="IN | Food Foodⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c3002a815dcbd37b4f1f518b0588b2a4.png" group-title="INDIA",IN | Food Foodⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692138
+#EXTINF:-1 tvg-id="" tvg-name="IN | Flowers TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2ab380e4ff9713f245f1adb6c5ecb65e.png" group-title="INDIA",IN | Flowers TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692137
+#EXTINF:-1 tvg-id="" tvg-name="IN | Fateh TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/b6a514f1a03d7ee7071783c3143cedd6.png" group-title="INDIA",IN | Fateh TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692136
+#EXTINF:-1 tvg-id="" tvg-name="IN | FastWay Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/00ae83f94cf2628eb0c0d56ba498c348.png" group-title="INDIA",IN | FastWay Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692135
+#EXTINF:-1 tvg-id="" tvg-name="IN | ET Nowⓧ" tvg-logo="http://xplatinmedia.com:8080/images/58de1f7fa8de795687c54c5e8b9c5d70.png" group-title="INDIA",IN | ET Nowⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692134
+#EXTINF:-1 tvg-id="" tvg-name="IN | Epic TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/eb8b42026f577dfff24ec2c045f686fe.png" group-title="INDIA",IN | Epic TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692133
+#EXTINF:-1 tvg-id="" tvg-name="IN | Enter 10ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bd64d18392be2babaf502ff176b3cc23.png" group-title="INDIA",IN | Enter 10ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692132
+#EXTINF:-1 tvg-id="" tvg-name="IN | Ekta TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/93088a01569b6094fb2c720265d1e910.png" group-title="INDIA",IN | Ekta TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692131
+#EXTINF:-1 tvg-id="" tvg-name="IN | Ekattor TV Banglaⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/f27372755a31135aaf3b2ad5cea9e082.png" group-title="INDIA",IN | Ekattor TV Banglaⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692130
+#EXTINF:-1 tvg-id="" tvg-name="IN | EET TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3612598cb7d7823e3754775e4d4b1822.png" group-title="INDIA",IN | EET TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692129
+#EXTINF:-1 tvg-id="" tvg-name="IN | Disney Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2797d78c7dca9c668fa0d6f3dbae9185.png" group-title="INDIA",IN | Disney Channelⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692128
+#EXTINF:-1 tvg-id="" tvg-name="IN | Discovey Kids Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/efe45c3e9f81419fda1b6e6b76b33798.png" group-title="INDIA",IN | Discovey Kids Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692127
+#EXTINF:-1 tvg-id="" tvg-name="IN | Discovery Science Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/08cd13cf02ec49b5c7641e0ca4c1cf24.png" group-title="INDIA",IN | Discovery Science Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692126
+#EXTINF:-1 tvg-id="" tvg-name="IN | Discovery Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/90ee15961a1ea9e5177dccfa6195d005.png" group-title="INDIA",IN | Discovery Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692125
+#EXTINF:-1 tvg-id="" tvg-name="IN | Dillagi TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7e417b390caf9590c5425bc7c9d34f7c.png" group-title="INDIA",IN | Dillagi TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692124
+#EXTINF:-1 tvg-id="" tvg-name="IN | Dil Seⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2fae7414d0b049f2f69e4af3b18d35f0.png" group-title="INDIA",IN | Dil Seⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692123
+#EXTINF:-1 tvg-id="" tvg-name="IN | Dighvijay Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd7c392fc84096595259bf800af0d149.png" group-title="INDIA",IN | Dighvijay Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692122
+#EXTINF:-1 tvg-id="" tvg-name="IN | Dhamaal TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7e417b390caf9590c5425bc7c9d34f7c.png" group-title="INDIA",IN | Dhamaal TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692121
+#EXTINF:-1 tvg-id="" tvg-name="IN | Desi TV USAⓧ" tvg-logo="http://xplatinmedia.com:8080/images/625d05950ce21fd5eb48ff88c32f0c9a.png" group-title="INDIA",IN | Desi TV USAⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692120
+#EXTINF:-1 tvg-id="" tvg-name="IN | Desi Plusⓧ" tvg-logo="" group-title="INDIA",IN | Desi Plusⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692119
+#EXTINF:-1 tvg-id="" tvg-name="IN | Desi channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3cd06b60274e6fd436b3d65cb33ccf26.png" group-title="INDIA",IN | Desi channelⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692118
+#EXTINF:-1 tvg-id="" tvg-name="IN | Desi Beatsⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/f66c440efa9d380cd247d75773b47ab0.jpg" group-title="INDIA",IN | Desi Beatsⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692117
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Sportsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cea36c4bb8a68faeda467fcd271508bd.png" group-title="INDIA",IN | DD Sportsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692116
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Punjabiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e4e2667911a05df299a100209c93b917.png" group-title="INDIA",IN | DD Punjabiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692115
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Podhigaiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9f99ba08f41b95ee17b7e5c84c760ae0.png" group-title="INDIA",IN | DD Podhigaiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692114
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0a2a6eae5b4dba7e2d8a6f448d351444.png" group-title="INDIA",IN | DD Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692113
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Nationalⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4a00ec2a823c282fc46c62b5d3443cd4.png" group-title="INDIA",IN | DD Nationalⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692112
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Malayalamⓧ " tvg-logo="http://xplatinmedia.com:8080/images/4a00ec2a823c282fc46c62b5d3443cd4.png" group-title="INDIA",IN | DD Malayalamⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692111
+#EXTINF:-1 tvg-id="" tvg-name="IN | DD Girnarⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2e12fb3b68ff5ea17b57e066e7884c37.png" group-title="INDIA",IN | DD Girnarⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692110
+#EXTINF:-1 tvg-id="" tvg-name="IN | D Sportsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9c5fbef6149cf78d6455090105bbdf07.png" group-title="INDIA",IN | D Sportsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692109
+#EXTINF:-1 tvg-id="" tvg-name="IN | CTVN AKD Plusⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/077d2397e8dcf680ad9d362a2d3ae49d.png" group-title="INDIA",IN | CTVN AKD Plusⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692108
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors TVⓧ HD " tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png" group-title="INDIA",IN | Colors TVⓧ HD 
+http://gtvstreams.me:80/Robbie/Robbie/692107
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png" group-title="INDIA",IN | Colors TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692106
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors TV UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png" group-title="INDIA",IN | Colors TV UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692105
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors Rishteyⓧ" tvg-logo="http://xplatinmedia.com:8080/images/46bb2fcdae4f0df51a08b32176d2f1d8.png" group-title="INDIA",IN | Colors Rishteyⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692104
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors Rishtey UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/46bb2fcdae4f0df51a08b32176d2f1d8.png" group-title="INDIA",IN | Colors Rishtey UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692103
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors Marathiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/adf97c32850d9800b909a8a3b7df0358.png" group-title="INDIA",IN | Colors Marathiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692102
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors Gujaratiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f81acfd8d0caa958395ba368d0caa430.png" group-title="INDIA",IN | Colors Gujaratiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692101
+#EXTINF:-1 tvg-id="" tvg-name="IN | Colors Cineplexⓧ" tvg-logo="http://xplatinmedia.com:8080/images/881fb25d7a2d1f010d0d73e759f2a0e8.png" group-title="INDIA",IN | Colors Cineplexⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692100
+#EXTINF:-1 tvg-id="" tvg-name="IN | CNBC TV18ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ec104953799e4a4c05d16a70be9b95c9.png" group-title="INDIA",IN | CNBC TV18ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692099
+#EXTINF:-1 tvg-id="" tvg-name="IN | CNBC Bajarⓧ " tvg-logo="http://xplatinmedia.com:8080/images/102c361bf147936a8ee80b568c0ebf6b.png" group-title="INDIA",IN | CNBC Bajarⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692098
+#EXTINF:-1 tvg-id="" tvg-name="IN | CNBC Awaazⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c0700b150bc6de4cd82d4f7a1bda0bfb.png" group-title="INDIA",IN | CNBC Awaazⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692097
+#EXTINF:-1 tvg-id="" tvg-name="IN | Cinema TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b08cb683ffe791e0fde037636db09bec.png" group-title="INDIA",IN | Cinema TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692096
+#EXTINF:-1 tvg-id="" tvg-name="IN | Cine Voiceⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/c8cd19d3149182a3c29952171b3aaf82.png" group-title="INDIA",IN | Cine Voiceⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692095
+#EXTINF:-1 tvg-id="" tvg-name="IN | Chardikla Timeⓧ" tvg-logo="http://xplatinmedia.com:8080/images/afdfc6590f6b3bf6b5382e1996a9c3ac.png" group-title="INDIA",IN | Chardikla Timeⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692094
+#EXTINF:-1 tvg-id="" tvg-name="IN | Channel Yⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7209d7565f06f5dd0054949e8298c56d.png" group-title="INDIA",IN | Channel Yⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692093
+#EXTINF:-1 tvg-id="" tvg-name="IN | Channel Winⓧ" tvg-logo="http://xplatinmedia.com:8080/images/40381ed1c193cdfcd1c257880e473c1b.png" group-title="INDIA",IN | Channel Winⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692092
+#EXTINF:-1 tvg-id="" tvg-name="IN | Cartoon Networkⓧ" tvg-logo="http://xplatinmedia.com:8080/images/16e3f03450d87a72144869486bc81d0e.png" group-title="INDIA",IN | Cartoon Networkⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692091
+#EXTINF:-1 tvg-id="" tvg-name="IN | Captain Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/eeea9074acd8e888d6382da96eb22eb7.png" group-title="INDIA",IN | Captain Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692090
+#EXTINF:-1 tvg-id="" tvg-name="IN | Brit Asia TV UKⓧ" tvg-logo="http://xplatinmedia.com:8080/images/be868351163ace57a0308eddbf0bbcc8.png" group-title="INDIA",IN | Brit Asia TV UKⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692089
+#EXTINF:-1 tvg-id="" tvg-name="IN | Boogle Bollywoodⓧ" tvg-logo="http://xplatinmedia.com:8080/images/35e05fde14740cf64b5d4eb570930c46.jpeg" group-title="INDIA",IN | Boogle Bollywoodⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692088
+#EXTINF:-1 tvg-id="" tvg-name="IN | Bollywood TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c3f8601aed8ba46aba79b8c1c2495ee1.png" group-title="INDIA",IN | Bollywood TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692087
+#EXTINF:-1 tvg-id="" tvg-name="IN | Bollywood Premierⓧ" tvg-logo="http://xplatinmedia.com:8080/images/32822c7a7bd239d3745dffcb2d8ccf1c.png" group-title="INDIA",IN | Bollywood Premierⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692086
+#EXTINF:-1 tvg-id="" tvg-name="IN | Bollywood Nowⓧ" tvg-logo="http://xplatinmedia.com:8080/images/dd3a249893d0582db0e346563cba770b.png" group-title="INDIA",IN | Bollywood Nowⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692085
+#EXTINF:-1 tvg-id="" tvg-name="IN | Bollywood Classicⓧ " tvg-logo="http://xplatinmedia.com:8080/images/228e905d63b0f8e2a4deb8359ce917e2.png" group-title="INDIA",IN | Bollywood Classicⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692084
+#EXTINF:-1 tvg-id="" tvg-name="IN | Bindassⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5b1c91480c6545cce55f0ea9551b3154.png" group-title="INDIA",IN | Bindassⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692083
+#EXTINF:-1 tvg-id="" tvg-name="IN | Big Magicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c0e35350d6b51916c6dc0efa95701020.png" group-title="INDIA",IN | Big Magicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692082
+#EXTINF:-1 tvg-id="" tvg-name="IN | BBOⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0451914f0132cb38d392883519d4ef2d.png" group-title="INDIA",IN | BBOⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692081
+#EXTINF:-1 tvg-id="" tvg-name="IN | BBC Toronto Gaunda Punjabⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9798959dc1e856b23f58b1f2a527e556.png" group-title="INDIA",IN | BBC Toronto Gaunda Punjabⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692080
+#EXTINF:-1 tvg-id="" tvg-name="IN | Bansal Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/88ca3c30c4acf87100de908c9e096113.png" group-title="INDIA",IN | Bansal Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692079
+#EXTINF:-1 tvg-id="" tvg-name="IN | Balle Balleⓧ" tvg-logo="http://xplatinmedia.com:8080/images/15d9263cf564da95b0e765cc59270b5d.png" group-title="INDIA",IN | Balle Balleⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692078
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4U Plusⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2884e5a489ff261801d6f26e3e8039e9.png" group-title="INDIA",IN | B4U Plusⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692077
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4U Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/601366f86bab4195198578bb60dc1fce.PNG" group-title="INDIA",IN | B4U Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692076
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4U Moviesⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8565dd6443f6019f695a057a2314cc5a.png" group-title="INDIA",IN | B4U Moviesⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692075
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4U Kadakⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1effea15747a2cc196e83eb659cd62bd.png" group-title="INDIA",IN | B4U Kadakⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692074
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4U Aflamⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0adec05de783a71f1ce9c84cb20107f6.png" group-title="INDIA",IN | B4U Aflamⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692073
+#EXTINF:-1 tvg-id="" tvg-name="IN | Ayush TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6b1b4a4692035e7b9b6fdfcccf5f4325.png" group-title="INDIA",IN | Ayush TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692072
+#EXTINF:-1 tvg-id="" tvg-name="IN | Assam Talksⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f6931132764d17ef26868c533cee3b90.png" group-title="INDIA",IN | Assam Talksⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692071
+#EXTINF:-1 tvg-id="" tvg-name="IN | Asianet Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6e669f7371828bb8dc568ead87b98747.png" group-title="INDIA",IN | Asianet Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692070
+#EXTINF:-1 tvg-id="" tvg-name="IN | Asianet News Tamilⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6e669f7371828bb8dc568ead87b98747.png" group-title="INDIA",IN | Asianet News Tamilⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692069
+#EXTINF:-1 tvg-id="" tvg-name="IN | Asianet News Kannadaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6e669f7371828bb8dc568ead87b98747.png" group-title="INDIA",IN | Asianet News Kannadaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692068
+#EXTINF:-1 tvg-id="" tvg-name="IN | Asianet News Banglaⓧ " tvg-logo="http://xplatinmedia.com:8080/images/6e669f7371828bb8dc568ead87b98747.png" group-title="INDIA",IN | Asianet News Banglaⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/692067
+#EXTINF:-1 tvg-id="" tvg-name="IN | Asianet Moviesⓧ HD " tvg-logo="http://xplatinmedia.com:8080/images/5282df2d9aaf93671b897faf92610783.png" group-title="INDIA",IN | Asianet Moviesⓧ HD 
+http://gtvstreams.me:80/Robbie/Robbie/692066
+#EXTINF:-1 tvg-id="" tvg-name="IN | Anjanⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7bd5cd469b9e742aba5faeced3942652.png" group-title="INDIA",IN | Anjanⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692065
+#EXTINF:-1 tvg-id="" tvg-name="IN | Animal Planet Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b73b36a238c8cf4de7a681241773d20c.png" group-title="INDIA",IN | Animal Planet Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692064
+#EXTINF:-1 tvg-id="" tvg-name="IN | Angel TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d7bf9186453d82610ad0ed82b1038760.png" group-title="INDIA",IN | Angel TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692063
+#EXTINF:-1 tvg-id="" tvg-name="IN | Amrita TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d3a11c9b8c2e81af30f4709feaefe8ad.png" group-title="INDIA",IN | Amrita TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692062
+#EXTINF:-1 tvg-id="" tvg-name="IN | Amar Ujalaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/21824887dfed19e517887ffca1fa1bd4.png" group-title="INDIA",IN | Amar Ujalaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692061
+#EXTINF:-1 tvg-id="" tvg-name="IN | Alpha ETC Punjabiⓧ OFFLINE " tvg-logo="http://xplatinmedia.com:8080/images/10657275fea5fc888a61ecbb548769bf.PNG" group-title="INDIA",IN | Alpha ETC Punjabiⓧ OFFLINE 
+http://gtvstreams.me:80/Robbie/Robbie/692060
+#EXTINF:-1 tvg-id="" tvg-name="IN | Akaram Kidzⓧ" tvg-logo="http://xplatinmedia.com:8080/images/d6c2f682fa71bede3310d8f4f29fea9a.png" group-title="INDIA",IN | Akaram Kidzⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692059
+#EXTINF:-1 tvg-id="" tvg-name="IN | Akaal Channelⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4cbc5ff4a29d77d0f8bfabb5bce16c2f.png" group-title="INDIA",IN | Akaal Channelⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692058
+#EXTINF:-1 tvg-id="" tvg-name="IN | Aditya TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/78be900b315014745c84d896bcc07363.png" group-title="INDIA",IN | Aditya TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692057
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Sanjhaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6991d718d6f5ee590588588d0ca92ac7.png" group-title="INDIA",IN | ABP Sanjhaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692056
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Newsⓧ SD" tvg-logo="http://xplatinmedia.com:8080/images/9a8fb8cc83f505888d22650438995129.png" group-title="INDIA",IN | ABP Newsⓧ SD
+http://gtvstreams.me:80/Robbie/Robbie/692055
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Majhaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/51c4161378bbcab824b7a7da4cb0c148.png" group-title="INDIA",IN | ABP Majhaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692054
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Hindiⓧ" tvg-logo="http://xplatinmedia.com:8080/images/9a8fb8cc83f505888d22650438995129.png" group-title="INDIA",IN | ABP Hindiⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692053
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Gangaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6991d718d6f5ee590588588d0ca92ac7.png" group-title="INDIA",IN | ABP Gangaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692052
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Asmitaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6991d718d6f5ee590588588d0ca92ac7.png" group-title="INDIA",IN | ABP Asmitaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692051
+#EXTINF:-1 tvg-id="" tvg-name="IN | ABP Anandaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e160dbb4d3e0064a346eaa62fea3e3ce.png" group-title="INDIA",IN | ABP Anandaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692050
+#EXTINF:-1 tvg-id="" tvg-name="IN | Abinayaⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/4a41f1a2b88d726a011ed21431d82c85.png" group-title="INDIA",IN | Abinayaⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692049
+#EXTINF:-1 tvg-id="" tvg-name="IN | Aathavan TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4f9f33e8054f59d88601cb35cd30d4f1.jpg" group-title="INDIA",IN | Aathavan TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692048
+#EXTINF:-1 tvg-id="" tvg-name="IN | Aastha TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/fcc487d78f108516c96304899206b1b8.png" group-title="INDIA",IN | Aastha TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692047
+#EXTINF:-1 tvg-id="" tvg-name="IN | Aalami Saharaⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/e64e20784e2d333b964ef4c80d034f2e.png" group-title="INDIA",IN | Aalami Saharaⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692046
+#EXTINF:-1 tvg-id="" tvg-name="IN | Aaj Tak Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/02c02891d15ab27bc7a198728c768cdd.png" group-title="INDIA",IN | Aaj Tak Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692045
+#EXTINF:-1 tvg-id="" tvg-name="IN | Aaho Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/462b1464aeb856e479dbdfd1ae602971.png" group-title="INDIA",IN | Aaho Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692044
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9XMⓧ" tvg-logo="http://xplatinmedia.com:8080/images/56fcfb20f4e9de5a518cc28578b773ca.png" group-title="INDIA",IN | 9XMⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692043
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashanⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5ecfddf5cf677582e9a9734d44f554e1.png" group-title="INDIA",IN | 9x Tashanⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692042
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9X Jhakaasⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5f127be24d6a3ffe30b22c6f54061aa5.png" group-title="INDIA",IN | 9X Jhakaasⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692041
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9X Jalwaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/caf69f5fd4e386d66afa764960d25d4a.png" group-title="INDIA",IN | 9X Jalwaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692040
+#EXTINF:-1 tvg-id="" tvg-name="IN | 7Star TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7388b0a9ae9f354ecf715da214662115.png" group-title="INDIA",IN | 7Star TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692039
+#EXTINF:-1 tvg-id="" tvg-name="IN | 7S Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/972813c9c1dcc5cbd89eb1a8f657cb5e.png" group-title="INDIA",IN | 7S Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692038
+#EXTINF:-1 tvg-id="" tvg-name="IN | 3 Tamil TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/aec6d286fd642298d2d6cd6fb77c7f53.png" group-title="INDIA",IN | 3 Tamil TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692037
+#EXTINF:-1 tvg-id="" tvg-name="IN | 24 News Malayalamⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/7bff73327de0b15428a04ebdab774bff.png" group-title="INDIA",IN | 24 News Malayalamⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/692036
+#EXTINF:-1 tvg-id="" tvg-name="IN | 1st Indiaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7ab1a63f2f9923b066456a60f1e6e07c.png" group-title="INDIA",IN | 1st Indiaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692035
+#EXTINF:-1 tvg-id="" tvg-name="IN | 1Sportsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/bdff2a214f94c1b960f0720cd8d95128.png" group-title="INDIA",IN | 1Sportsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692034
+#EXTINF:-1 tvg-id="" tvg-name="IN | &TVⓧ HD " tvg-logo="http://xplatinmedia.com:8080/images/ded0f5a14a5bab68605625f2588106c1.png" group-title="INDIA",IN | &TVⓧ HD 
+http://gtvstreams.me:80/Robbie/Robbie/692033
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Privéⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/67e9bc523c97f66534ec86d6b8f1e673.png" group-title="INDIA",IN | &Privéⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692032
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Privéⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/67e9bc523c97f66534ec86d6b8f1e673.png" group-title="INDIA",IN | &Privéⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/692031
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Picturesⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/623c3e441458345d82d77700c90b99f2.png" group-title="INDIA",IN | &Picturesⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692030
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Picturesⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/623c3e441458345d82d77700c90b99f2.png" group-title="INDIA",IN | &Picturesⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/692029
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Flixⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/82213cd1f986d4dd41ac0ef8d1d549a9.png" group-title="INDIA",IN | &Flixⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/692028
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Flixⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/82213cd1f986d4dd41ac0ef8d1d549a9.png" group-title="INDIA",IN | &Flixⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/692027
+#EXTINF:-1 tvg-id="" tvg-name="IN | &Explorⓧ" tvg-logo="http://xplatinmedia.com:8080/images/aa133b444036939c015e2875a8436085.png" group-title="INDIA",IN | &Explorⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692026
+#EXTINF:-1 tvg-id="" tvg-name="IN | Rishtey Cineplexⓧ" tvg-logo="http://xplatinmedia.com:8080/images/710ae7950a9c977637378286828b980a.png" group-title="INDIA",IN | Rishtey Cineplexⓧ
+http://gtvstreams.me:80/Robbie/Robbie/692025
+#EXTINF:-1 tvg-id="" tvg-name="MY | ZEE Tamilⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/7d4a1548640e0c2427eb4b2f73937413.png" group-title="Tamil",MY | ZEE Tamilⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/680640
+#EXTINF:-1 tvg-id="" tvg-name="MY | Colors Tamilⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/32bf2536144b1f03130e1ac5e8bb4978.png" group-title="Tamil",MY | Colors Tamilⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/680639
+#EXTINF:-1 tvg-id="" tvg-name="IN | ZEE Tamilⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1e1a26e55620c8235dc7b7abb0c0aa1c.png" group-title="Tamil",IN | ZEE Tamilⓧ
+http://gtvstreams.me:80/Robbie/Robbie/680638
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 Tamilⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="Tamil",IN | News 18 Tamilⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/680637
+#EXTINF:-1 tvg-id="" tvg-name="IN | News 18 TamilNaduⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8e4914d823546911a1a4246ba4e9059f.png" group-title="Tamil",IN | News 18 TamilNaduⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/680636
+#EXTINF:-1 tvg-id="" tvg-name="IN | IBC Tamilⓧ" tvg-logo="http://xplatinmedia.com:8080/images/5a8c6f3bd845e04c01663edfd78ddb33.png" group-title="Tamil",IN | IBC Tamilⓧ
+http://gtvstreams.me:80/Robbie/Robbie/680635
+#EXTINF:-1 tvg-id="" tvg-name="IN | Asianet News Tamilⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6e669f7371828bb8dc568ead87b98747.png" group-title="Tamil",IN | Asianet News Tamilⓧ
+http://gtvstreams.me:80/Robbie/Robbie/680634
+#EXTINF:-1 tvg-id="" tvg-name="IN | 3 Tamil TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/aec6d286fd642298d2d6cd6fb77c7f53.png" group-title="Tamil",IN | 3 Tamil TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/680633
+#EXTINF:-1 tvg-id="" tvg-name="BD |  Zee Cinemaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/af9650c7d06d99bb3ab1d1d4b0e58498.png" group-title="BANGLADESH",BD |  Zee Cinemaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640416
+#EXTINF:-1 tvg-id="" tvg-name="BD | Visionⓧ" tvg-logo="http://xplatinmedia.com:8080/images/ddb2b4f650d6bac7d5ceceeaddc99d9e.png" group-title="BANGLADESH",BD | Visionⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640415
+#EXTINF:-1 tvg-id="" tvg-name="BD | TVTTVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLADESH",BD | TVTTVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640414
+#EXTINF:-1 tvg-id="" tvg-name="BD | TV Millenniumⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b88cc6620c375b0053d89cd545f1ca86.png" group-title="BANGLADESH",BD | TV Millenniumⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640413
+#EXTINF:-1 tvg-id="" tvg-name="BD | Sony TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/6140f0aa53804a52e7a3d2ee40adc5fe.png" group-title="BANGLADESH",BD | Sony TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640412
+#EXTINF:-1 tvg-id="" tvg-name="BD | SONY Aathⓧ" tvg-logo="http://xplatinmedia.com:8080/images/13bc24c1114ddc03b2bc66946ef57525.png" group-title="BANGLADESH",BD | SONY Aathⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640411
+#EXTINF:-1 tvg-id="" tvg-name="BD | Sony 8ⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/72f0570398910053154c0d562d200c19.png" group-title="BANGLADESH",BD | Sony 8ⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640410
+#EXTINF:-1 tvg-id="" tvg-name="BD | Sangeet Banglaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f6c135e723ac866f496c9d7e88b0be20.png" group-title="BANGLADESH",BD | Sangeet Banglaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640409
+#EXTINF:-1 tvg-id="" tvg-name="BD | SA TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a8daca5d1007f2ff5a5e818ae76d309f.png" group-title="BANGLADESH",BD | SA TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640408
+#EXTINF:-1 tvg-id="" tvg-name="BD | Rupashiⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/b98bd20b54a0e1f9e9b669c89e78dc56.png" group-title="BANGLADESH",BD | Rupashiⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640407
+#EXTINF:-1 tvg-id="" tvg-name="BD | RTP TVⓧ  OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/d86a1fae68543aa5325d53df9201dea2.png" group-title="BANGLADESH",BD | RTP TVⓧ  OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640406
+#EXTINF:-1 tvg-id="" tvg-name="BD | RMTVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLADESH",BD | RMTVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640405
+#EXTINF:-1 tvg-id="" tvg-name="BD | RAI News 24ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8a1d97504f06310d8e081435b096f843.png" group-title="BANGLADESH",BD | RAI News 24ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640404
+#EXTINF:-1 tvg-id="" tvg-name="BD | NTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/28027d2322b3e635e1465031f8308387.png" group-title="BANGLADESH",BD | NTVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640403
+#EXTINF:-1 tvg-id="" tvg-name="BD | News 24ⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/a968343c8fc9df0e71868fb38d684040.png" group-title="BANGLADESH",BD | News 24ⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/640402
+#EXTINF:-1 tvg-id="" tvg-name="BD | News 18ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b1a5ff75c8d536df37037b174299d185.png" group-title="BANGLADESH",BD | News 18ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640401
+#EXTINF:-1 tvg-id="" tvg-name="BD | My Cinema TVⓧ OFFLINE " tvg-logo="http://xplatinmedia.com:8080/images/0bb210e2f9d47cb243ad01011fdb5dc5.png" group-title="BANGLADESH",BD | My Cinema TVⓧ OFFLINE 
+http://gtvstreams.me:80/Robbie/Robbie/640400
+#EXTINF:-1 tvg-id="" tvg-name="BD | Kanshi TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2ef24c6005526223b9bcf944e844a40e.png" group-title="BANGLADESH",BD | Kanshi TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640399
+#EXTINF:-1 tvg-id="" tvg-name="BD | ITV Movieⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/8538d4b9f2c7008f29cfe6c98b8b01f2.png" group-title="BANGLADESH",BD | ITV Movieⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640398
+#EXTINF:-1 tvg-id="" tvg-name="BD | IQRA TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/2624b510b870c182a8e7bf6cc0d31f20.png" group-title="BANGLADESH",BD | IQRA TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640397
+#EXTINF:-1 tvg-id="" tvg-name="BD | Gaan Banglaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/8c99fc6174ed730839eeb336d6bbb3a1.png" group-title="BANGLADESH",BD | Gaan Banglaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640396
+#EXTINF:-1 tvg-id="" tvg-name="BD | ETV TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/23e2a567b0a0ad32c9b2206177b03fbe.png" group-title="BANGLADESH",BD | ETV TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640395
+#EXTINF:-1 tvg-id="" tvg-name="BD | ETG TVⓧ " tvg-logo="http://xplatinmedia.com:8080/images/a496cc09e13b4e71eca6bba2c998939a.png" group-title="BANGLADESH",BD | ETG TVⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/640394
+#EXTINF:-1 tvg-id="" tvg-name="BD | Ekushey TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/23e2a567b0a0ad32c9b2206177b03fbe.png" group-title="BANGLADESH",BD | Ekushey TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640393
+#EXTINF:-1 tvg-id="" tvg-name="BD | Duronto TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1a097d1b9646e41bd9f884bb56a7bed9.png" group-title="BANGLADESH",BD | Duronto TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640392
+#EXTINF:-1 tvg-id="" tvg-name="BD | Digiⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/18d829d7b4be700c20060dd769e8aac4.png" group-title="BANGLADESH",BD | Digiⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640391
+#EXTINF:-1 tvg-id="" tvg-name="BD | Desh TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1dc01e78292ceb062b4fbf9af39ef2de.png" group-title="BANGLADESH",BD | Desh TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640390
+#EXTINF:-1 tvg-id="" tvg-name="BD | DDⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLADESH",BD | DDⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640389
+#EXTINF:-1 tvg-id="" tvg-name="BD | Colorsⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/2c852dd09b415291e554f5db96cfe54d.png" group-title="BANGLADESH",BD | Colorsⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/640388
+#EXTINF:-1 tvg-id="" tvg-name="BD | CNBC TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/b1e78626a2b398c838f6b38460a1ed81.png" group-title="BANGLADESH",BD | CNBC TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640387
+#EXTINF:-1 tvg-id="" tvg-name="BD | Channel 9ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/7df3745dce6648972b5266f0c760e97b.png" group-title="BANGLADESH",BD | Channel 9ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640386
+#EXTINF:-1 tvg-id="" tvg-name="BD | Carina TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/f0b0ee008b4b69b7801d44b60d0ed213.png" group-title="BANGLADESH",BD | Carina TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640385
+#EXTINF:-1 tvg-id="" tvg-name="BD | BTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e8a667f9e1b398f1c5d5224deb604508.png" group-title="BANGLADESH",BD | BTVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640384
+#EXTINF:-1 tvg-id="" tvg-name="BD | Boishakhi TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/291537ffb8ccacaf73579d0bc33b25c0.png" group-title="BANGLADESH",BD | Boishakhi TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640383
+#EXTINF:-1 tvg-id="" tvg-name="BD | Bijoy TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/c4516cac12745dfd351cb3986b801ea5.png" group-title="BANGLADESH",BD | Bijoy TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640382
+#EXTINF:-1 tvg-id="" tvg-name="BD | Bangla Ruposhiⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLADESH",BD | Bangla Ruposhiⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640381
+#EXTINF:-1 tvg-id="" tvg-name="BD | Assam TVⓧ OFFLINE" tvg-logo="http://xplatinmedia.com:8080/images/647d5bf51ff47c4e91e4138504b2f852.png" group-title="BANGLADESH",BD | Assam TVⓧ OFFLINE
+http://gtvstreams.me:80/Robbie/Robbie/640380
+#EXTINF:-1 tvg-id="" tvg-name="BD | Aljazeera TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f4390514d1f6e5d724811bcd0bf9a02e.png" group-title="BANGLADESH",BD | Aljazeera TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640379
+#EXTINF:-1 tvg-id="" tvg-name="BD | Alistiqama TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/362c3c9d2e9aa211c92edc90d7893e72.png" group-title="BANGLADESH",BD | Alistiqama TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640378
+#EXTINF:-1 tvg-id="" tvg-name="BD | Aamarⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4329b8562e078554888debaec6141f1f.png" group-title="BANGLADESH",BD | Aamarⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640377
+#EXTINF:-1 tvg-id="" tvg-name="BD | 218 News TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/4b13ca0ca93b72592c1dca9bb82ba7e4.png" group-title="BANGLADESH",BD | 218 News TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640376
+#EXTINF:-1 tvg-id="" tvg-name="BD | Zee Banglaⓧ" tvg-logo="http://xplatinmedia.com:8080/images/e83b44817902f5a3ba20d718fe5368f0.png" group-title="BANGLADESH",BD | Zee Banglaⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640375
+#EXTINF:-1 tvg-id="" tvg-name="BD | T Sportsⓧ FHD" tvg-logo="http://xplatinmedia.com:8080/images/4db6f5b82bb4be0f8cca1cd50ac36483.png" group-title="BANGLADESH",BD | T Sportsⓧ FHD
+http://gtvstreams.me:80/Robbie/Robbie/640374
+#EXTINF:-1 tvg-id="" tvg-name="BD | Star Jalshaⓧ FHD " tvg-logo="http://xplatinmedia.com:8080/images/2192d77f0cb501537aac9687e6e58538.png" group-title="BANGLADESH",BD | Star Jalshaⓧ FHD 
+http://gtvstreams.me:80/Robbie/Robbie/640373
+#EXTINF:-1 tvg-id="" tvg-name="BD | Peace TVⓧ " tvg-logo="http://xplatinmedia.com:8080/images/cc043f52d8e35867bb341ab084ba134b.png" group-title="BANGLADESH",BD | Peace TVⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/640372
+#EXTINF:-1 tvg-id="" tvg-name="BD | NTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/28027d2322b3e635e1465031f8308387.png" group-title="BANGLADESH",BD | NTVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640371
+#EXTINF:-1 tvg-id="" tvg-name="BD | MohonaTVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/a16dbe0e7db6b894bfb419cdc6ba976c.png" group-title="BANGLADESH",BD | MohonaTVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640370
+#EXTINF:-1 tvg-id="" tvg-name="BD | Maasranga TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/1026e3f0d880a02abb92657e80020cd8.png" group-title="BANGLADESH",BD | Maasranga TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640369
+#EXTINF:-1 tvg-id="" tvg-name="BD | Independent TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/29df500887cf145120af0a9b52d39723.png" group-title="BANGLADESH",BD | Independent TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640368
+#EXTINF:-1 tvg-id="" tvg-name="BD | Gazi TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/34f66e3f9d817a1e0f2cac9277db0ac3.png" group-title="BANGLADESH",BD | Gazi TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640367
+#EXTINF:-1 tvg-id="" tvg-name="BD | G TVⓧ" tvg-logo="http://xplatinmedia.com:8080/images/34f66e3f9d817a1e0f2cac9277db0ac3.png" group-title="BANGLADESH",BD | G TVⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640366
+#EXTINF:-1 tvg-id="" tvg-name="BD | Channel Sⓧ HD" tvg-logo="http://xplatinmedia.com:8080/images/fd47dc6fbabe8d6e5dbf835bb6682e03.png" group-title="BANGLADESH",BD | Channel Sⓧ HD
+http://gtvstreams.me:80/Robbie/Robbie/640365
+#EXTINF:-1 tvg-id="" tvg-name="BD | Channel 24ⓧ" tvg-logo="http://xplatinmedia.com:8080/images/0d8b40094b9ed5de767a5cc023c6bc1e.png" group-title="BANGLADESH",BD | Channel 24ⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640364
+#EXTINF:-1 tvg-id="" tvg-name="BD | Bangla Visionⓧ " tvg-logo="http://xplatinmedia.com:8080/images/ffa675bde38ebcfdb1c6a800e6fc1839.png" group-title="BANGLADESH",BD | Bangla Visionⓧ 
+http://gtvstreams.me:80/Robbie/Robbie/640363
+#EXTINF:-1 tvg-id="" tvg-name="BD | ATN Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/f138055d1bc0ef41bfc990d9dcbb3b6e.png" group-title="BANGLADESH",BD | ATN Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640362
+#EXTINF:-1 tvg-id="" tvg-name="BD | DBC Newsⓧ" tvg-logo="http://xplatinmedia.com:8080/images/cb6c05f7a4d78b097e71ff0a4c665c99.png" group-title="BANGLADESH",BD | DBC Newsⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640361
+#EXTINF:-1 tvg-id="" tvg-name="BD | Dhoom Musicⓧ" tvg-logo="http://xplatinmedia.com:8080/images/3aa65b8313a1de9655518cf3870583e0.png" group-title="BANGLADESH",BD | Dhoom Musicⓧ
+http://gtvstreams.me:80/Robbie/Robbie/640360
