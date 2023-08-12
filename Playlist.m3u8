@@ -140,7 +140,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
 https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11856
 
 #EXTINF:-48, Star Jalsha HD
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11952
+http://manik-freecatv.serveftp.com:25461/live/web/web/603.m3u8
 
 #EXTINF:-49, Jalsha Movies HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
@@ -167,13 +167,13 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extensi
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 
 #EXTINF:-57,Zee Bangla Cinema
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11871
+http://manik-freecatv.serveftp.com:25461/live/web/web/598.m3u8
 
 #EXTINF:-58,Zee Bangla 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
 
 #EXTINF:-59,Colors Bangla HD
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11949
+http://manik-freecatv.serveftp.com:25461/live/web/web/601.m3u8
 
 #EXTINF:-60,Discovery Bangla HD
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
@@ -184,14 +184,14 @@ http://103.141.2.37:25461/web/web/604
 #EXTINF:-62,Sun Bangla
 http://103.141.2.37:25461/web/web/589
 
-#EXTINF:-63,Desh TV
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11904
+#EXTINF:-63,9XM
+http://manik-freecatv.serveftp.com:25461/live/web/web/557.m3u8
 
 #EXTINF:-64,Nick Bangla
 http://103.141.2.37:25461/web/web/615
 
-#EXTINF:-65,Mohona TV
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11886
+#EXTINF:-65,Sony Pix HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/561.m3u8
 
 #EXTINF:-66,Voice TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/live-orgin/voicetv.stream/chunks.m3u8
@@ -199,41 +199,113 @@ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 #EXTINF:-67,B24C TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/b24c.stream/live-orgin/b24c.stream/chunks.m3u8
 
-#EXTINF:-68,ATN Music
-https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-68,Star Plus HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/546.m3u8
 
 #EXTINF:-69,Varendra TV
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/live-orgin/varendratv.stream/chunks.m3u8
 
-#EXTINF:-70,Bijoy TV
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11919
+#EXTINF:-70,Pictures HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/543.m3u8
 
-#EXTINF:-71,Nexus TV
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-71,Colors HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/544.m3u8
 
-#EXTINF:-72,Channel 9
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11940
+#EXTINF:-72,Zee Cinema HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/545.m3u8
 
 #EXTINF:-73,Maasranga HD
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19827
+http://manik-freecatv.serveftp.com:25461/live/web/web/596.m3u8
 
-#EXTINF:-74,BTV HD
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11862
+#EXTINF:-74,Colors Cineplex
+http://manik-freecatv.serveftp.com:25461/live/web/web/547.m3u8
 
 #EXTINF:-75,BTV World
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-76,BTV Chattogram
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19823
+#EXTINF:-76,Zee TV HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/553.m3u8
 
 #EXTINF:-77,Ruposhi Bangla
 https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11865
 
-#EXTINF:-78,Sangsad TV
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19815
+#EXTINF:-78,Sony HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/551.m3u8
 
-#EXTINF:-79,Nagorik TV
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19811
+#EXTINF:-79,Sony Msx HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/552.m3u8
 
 #EXTINF:-80,Enter 10 Bangla
-https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=19783
+http://manik-freecatv.serveftp.com:25461/live/web/web/606.m3u8
+
+#EXTINF:-81,Star Movies HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/563.m3u8
+
+#EXTINF:-82,BBC Earth
+http://manik-freecatv.serveftp.com:25461/live/web/web/564.m3u8
+
+#EXTINF:-83,MNX HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/565.m3u8
+
+#EXTINF:-84,Movies Now
+http://manik-freecatv.serveftp.com:25461/live/web/web/562.m3u8
+
+#EXTINF:-84,Animal Planet
+http://manik-freecatv.serveftp.com:25461/live/web/web/566.m3u8
+
+#EXTINF:-85,Discovery HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/567.m3u8
+
+#EXTINF:-86,NAT GEO HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/568.m3u8
+
+#EXTINF:-87,Animal Planet
+http://manik-freecatv.serveftp.com:25461/live/web/web/569.m3u8
+
+#EXTINF:-88,MN+ HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/571.m3u8
+
+#EXTINF:-89,BBC World
+http://manik-freecatv.serveftp.com:25461/live/web/web/573.m3u8
+
+#EXTINF:-90,MNX HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/574.m3u8
+
+#EXTINF:-91,Star World
+http://manik-freecatv.serveftp.com:25461/live/web/web/575.m3u8
+
+#EXTINF:-92,Discovery HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/540.m3u8
+
+#EXTINF:-93,Sony Six HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/577.m3u8
+
+#EXTINF:-94,Star Sports3
+http://manik-freecatv.serveftp.com:25461/live/web/web/578.m3u8
+
+#EXTINF:-95,Star Select1 HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/579.m3u8
+
+#EXTINF:-96,Star Sports1 HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/580.m3u8
+
+#EXTINF:-97,Star Sports2 HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/581.m3u8
+
+#EXTINF:-98,Sony Ten 3
+http://manik-freecatv.serveftp.com:25461/live/web/web/582.m3u8
+
+#EXTINF:-99,Star Select2 HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/583.m3u8
+
+#EXTINF:-100,Sony Ten 2
+http://manik-freecatv.serveftp.com:25461/live/web/web/584.m3u8
+
+#EXTINF:-100,Sony Ten 1
+http://manik-freecatv.serveftp.com:25461/live/web/web/585.m3u8
+
+#EXTINF:-101,Madani
+http://manik-freecatv.serveftp.com:25461/live/web/web/618.m3u8
+
+#EXTINF:-102,Travelxp HD
+http://manik-freecatv.serveftp.com:25461/live/web/web/593.m3u8
