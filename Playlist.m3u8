@@ -66,6 +66,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,Ekushe TV
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1,Ekushe TV 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69350
+
 #EXTINF:-1,GaanBangla TV
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69349
 
@@ -335,4 +338,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/618.m3u8
 
 #EXTINF:-1,Travelxp HD
 http://manik-freecatv.serveftp.com:25461/live/web/web/593.m3u8
+
+#EXTINF:-1,Zoom HD
+http://103.86.134.34:9981/stream/channelid/1255935351?ticket=4072407A44A1DC1B43795E16C98DC76E77B67A03&profile=pass
 
