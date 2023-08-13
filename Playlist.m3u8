@@ -351,16 +351,13 @@ http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/71101
 #EXTINF:-1,B4U Music
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58215
 
-#EXTINF:-1,ZEE Action
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58200
-
 #EXTINF:-1,MTV Plus
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/58363
 
 #EXTINF:-1,Colors HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1,Colors Bengla HD
+#EXTINF:-1,Colors Bangla HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1,Colors Kannada HD
@@ -440,3 +437,30 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Super_voot_MOB/Fallback/ind
 
 #EXTINF:-1,Colors Infinity HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1,Sony Sab
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/67220
+
+#EXTINF:-1,Deshi Channel
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/67251
+
+#EXTINF:-1,Willow HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69848
+
+#EXTINF:-1,Utsav Plus HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/69853
+
+#EXTINF:-1,Filmchi India
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/71158
+
+#EXTINF:-1,Zee Cafe HD
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/72598
+
+#EXTINF:-1,Colors Hindi DUB
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/73014
+
+#EXTINF:-1,Mastiii
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/73018
+
+#EXTINF:-1,Sony Wah
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/73025
