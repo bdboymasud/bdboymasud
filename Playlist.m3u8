@@ -25,11 +25,17 @@ https://live.sonarbanglatv.com/boishakhi/boishakhitv.m3u8
 #EXTINF:-1,Boishakhi TV Plus
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/live-orgin/boishakhiplus.stream/chunks.m3u8
 
+#EXTINF:-1,BTV Chittagong
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/172565
+
 #EXTINF:-1,Channel S UK
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 
 #EXTINF:-1,CAN Bangla
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/live-orgin/canbanglatv.stream/chunks.m3u8
+
+#EXTINF:-1,Channel 9
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69344
 
 #EXTINF:-1, Channel 24 HD
 https://channel24.jaagobd.com/channel24/channel24-sg-e8e.stream/chunks.m3u8
@@ -38,13 +44,16 @@ https://channel24.jaagobd.com/channel24/channel24-sg-e8e.stream/chunks.m3u8
 http://manik-freecatv.serveftp.com:25461/live/web/web/592.m3u8
 
 #EXTINF:-1,Asian TV HD 2
-http://manik-freecatv.serveftp.com:25461/live/web/web/587.m3u8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69334
 
 #EXTINF:-1,Colors Bangla Cinema
 http://103.141.2.37:25461/web/web/599
 
 #EXTINF:-1,DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1,Desh TV
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69347
 
 #EXTINF:-1,Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -66,6 +75,9 @@ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 
 #EXTINF:-1,Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1,Jhankar TV
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297567
 
 #EXTINF:-1,Jonmobhumi TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
@@ -94,8 +106,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,NAN TV HD
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
 
+#EXTINF:-1,Nandan TV
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/172582
+
 #EXTINF:-1,News24 HD
-http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/5127
 
 #EXTINF:-1,NRB TV HD
 https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
