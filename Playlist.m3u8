@@ -132,6 +132,15 @@ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 #EXTINF:-1,Nandan TV
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 
+#EXTINF:-1,Nandan TV 2
+http://nandansyst.com/hls/nandan.m3u8
+
+#EXTINF:-1,Nandan TV 3
+http://nandansyst.com/hls/nandan.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1,Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
 #EXTINF:-1,News24 HD
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/5127
 
@@ -143,6 +152,21 @@ https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896486066
 
 #EXTINF:-1,Rajdhani TV
 https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896504796
+
+#EXTINF:-1,Rajdhani TV 2
+https://rajdhani.jaagobd.com:444/rajdhanitv/rajdhanitv.stream/playlist.m3u8
+
+#EXTINF:-1,Mim tv
+http://208.86.19.13:81/502.stream/index.m3u8
+
+#EXTINF:-1,I TV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1,ITV Bangla
+http://str24.l9574.com/512.stream/index.m3u8
+
+#EXTINF:-1,Channel S (1080p)
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
 #EXTINF:-1,RTV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
