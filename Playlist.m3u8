@@ -82,7 +82,7 @@ http://208.86.19.13:81/509.stream/index.m3u8
 #EXTINF:1,TIMENEWS24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8?nimblesessionid=
 #EXTINF:1,KHUSHBOO BANGLA
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+http://223.223.156.29:4022/udp/239.1.1.76:5000/index.m3u8
 #EXTINF:-1,Bangla TV
 http://208.86.19.13:81/504.stream/index.m3u8
 #EXTINF:-1,Matri Bhumi HD
