@@ -158,7 +158,7 @@ http://103.141.2.37:25461/web/web/601
 #EXTINF:-1, Colors Bangla HD
 https://livevoot.co.in/voot/playlist.m3u8?load=46118a6eb957b553cc5527c36508f0b6da52af220a2f43c0aa7aad22148d9d62d877af2051fa899131bdce7038910f616968f51f9646498b8440c4ef786d0d54437a20dbe28d298abd28537efa09b6b9c8615ad8e2269f688076a0be37d099ea8e7e745c228c8c5e44eebdf63ecadcc980e693640f8469e1d25f4ae762b4270ef8df2fda7f9f35fbb147eb55c01d3e88b85b922de6a550c6e7d34338ce6404b2&token=
 #EXTINF:-1, T Sports HD
-http://g4b.alwaysdata.net/tsports1080p.m3u8
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1, T Sports HD 2
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,Gazi TV HD
