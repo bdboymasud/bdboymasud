@@ -34,7 +34,7 @@ https://channel24.jaagobd.com/channel24/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1,Gazi TV HD
 http://manik-freecatv.serveftp.com:25461/live/web/web/592.m3u8
 #EXTINF:-1,Asian TV HD 2
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/69334
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,Colors Bangla Cinema
 http://103.141.2.37:25461/web/web/599
 #EXTINF:-1,DBC News
@@ -121,6 +121,8 @@ http://str24.l9574.com/512.stream/index.m3u8
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1,RTV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,RTV HD 2
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV Music
 https://m3u-editor.com/serve/e1b95030-3375-11ee-a06d-c5c77e50964a/896504873
 #EXTINF:-1,RTA Sport
