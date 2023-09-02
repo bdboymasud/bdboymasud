@@ -139,6 +139,8 @@ https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFz
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ekattor TV HD
 https://www.beastplayer.tk/LiveTv/XTv/iptv.php?id=11901
+#EXTINF:-1,Ekattor TV HD 2
+http://103.141.2.38/hls/71.m3u8
 #EXTINF:-1,Zee Bangla
 http://103.141.2.37:25461/web/web/602
 #EXTINF:-1,PTV Sports HD
@@ -165,6 +167,8 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,Gazi TV HD
 http://103.141.2.37:25461/web/web/592
+#EXTINF:-1 Gazi TV 2
+http://103.141.2.38/hls/Gazi-TV.m3u8
 #EXTINF:-1,Jalsha Movies
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1,Star Jalsha
